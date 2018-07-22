@@ -1,0 +1,1844 @@
+rec.sport.baseball	god:1	baseball:3	game:1	team:2	pitching:1	
+rec.autos	car:8	cars:4	
+rec.autos	car:1	
+rec.autos	car:2	cars:3	
+rec.autos	car:2	toyota:2	
+rec.autos	car:1	cars:2	toyota:1	
+rec.autos	car:1	engine:2	cars:1	
+rec.autos	cars:3	
+rec.autos	car:7	engine:4	cars:1	
+rec.autos	car:1	automotive:1	space:1	ford:1	
+rec.autos	ford:1	
+rec.autos	toyota:2	
+rec.autos	ride:1	car:5	condition:1	cars:2	
+rec.autos	cars:3	
+rec.autos	car:2	gun:1	
+rec.autos	toyota:2	
+rec.autos	car:1	automotive:1	
+rec.autos	car:2	
+rec.autos	car:2	automotive:1	
+rec.autos	dod:1	toyota:2	
+rec.autos	cup:1	automotive:1	dod:1	
+rec.autos	car:5	window:1	engine:3	ford:3	
+rec.autos	cars:3	
+rec.autos	ms:1	graphics:2	ford:2	
+rec.autos	car:1	
+rec.autos	ride:1	ranch:1	ford:2	
+rec.autos	car:2	
+rec.autos	car:3	automotive:1	cars:4	ford:1	key:3	
+rec.autos	cars:1	
+rec.autos	car:1	
+rec.autos	car:2	engine:1	cars:1	ms:1	
+rec.autos	car:1	automotive:1	windows:3	
+rec.autos	car:2	
+rec.autos	car:2	engine:1	
+rec.autos	cup:1	automotive:1	cars:1	
+rec.autos	car:4	mustang:1	engine:2	cars:1	
+rec.autos	car:3	
+rec.autos	engine:3	cars:1	electronics:1	
+rec.autos	toyota:4	
+rec.autos	car:1	rec.autos:1	
+rec.autos	cars:1	
+rec.autos	car:5	cars:2	space:1	
+rec.autos	car:2	bikes:2	engine:1	cars:6	
+rec.autos	car:1	automotive:1	
+rec.autos	car:3	mustang:5	game:1	ford:1	
+rec.autos	car:2	engine:2	space:1	
+rec.autos	car:5	mustang:5	game:1	ford:1	
+rec.autos	car:6	engine:1	cars:1	
+rec.autos	car:1	cars:3	
+rec.autos	car:1	
+rec.autos	engine:1	
+rec.autos	cars:1	
+rec.autos	car:10	cars:4	
+rec.autos	space:1	
+rec.autos	rec.autos:4	
+rec.autos	car:5	ford:2	
+rec.autos	offer:1	sale:3	
+rec.autos	car:1	keith:1	
+rec.autos	car:1	bmw:2	
+rec.autos	car:1	cars:3	game:1	
+rec.autos	bmw:1	
+rec.autos	cars:4	
+rec.autos	ride:1	car:3	cars:2	offer:1	
+rec.autos	car:3	engine:3	electronics:2	
+rec.autos	car:4	engine:2	cars:3	bmw:1	windows:1	ford:1	electronics:3	
+rec.autos	car:4	electronics:3	
+rec.autos	car:4	mustang:1	engine:1	rec.autos:1	
+rec.autos	bus:2	cars:1	
+rec.autos	car:1	cup:3	automotive:1	
+rec.autos	ride:1	car:9	bmw:1	offer:1	toyota:1	
+rec.autos	car:5	rec.autos:1	
+rec.autos	car:2	sale:1	
+rec.autos	toyota:2	
+rec.autos	cars:1	ford:1	
+rec.autos	car:4	cars:1	
+rec.autos	engine:10	cars:1	rec.autos:1	
+rec.autos	cars:2	
+rec.autos	automotive:1	
+rec.autos	mustang:1	
+rec.autos	car:1	ford:1	
+rec.autos	car:1	bus:2	cars:1	toyota:1	
+rec.autos	car:1	window:1	condition:1	sale:1	
+rec.autos	car:1	
+rec.autos	car:3	engine:1	cars:1	
+rec.autos	automotive:1	window:2	riding:1	windows:3	ford:1	
+rec.autos	automotive:1	cars:1	
+rec.autos	car:1	bikes:2	cars:1	
+rec.autos	car:5	bike:1	dod:1	
+rec.autos	car:2	
+rec.autos	car:2	engine:2	cars:1	
+rec.autos	automotive:1	
+rec.autos	car:5	medical:1	windows:2	
+rec.autos	windows:1	
+rec.autos	car:1	forsale:1	offer:1	
+rec.autos	car:3	
+rec.sport.baseball	baseball:4	pitchers:2	players:4	pitcher:3	team:10	game:16	pitching:3	
+rec.autos	car:1	cars:2	
+rec.autos	engine:1	cars:1	
+rec.autos	car:1	engine:6	
+rec.autos	car:4	mustang:1	engine:1	rec.autos:1	
+rec.autos	car:3	engine:1	
+rec.motorcycles	shipping:1	dod:1	ama:1	
+rec.sport.baseball	jays:2	game:3	pitching:1	sale:1	
+rec.sport.baseball	pitchers:1	players:4	keith:1	team:3	misc.legal:1	
+rec.sport.baseball	game:2	pitching:1	
+rec.sport.baseball	baseball:1	
+rec.sport.baseball	jays:1	
+rec.sport.baseball	hitter:3	baseball:2	players:1	game:1	
+rec.sport.baseball	hitter:3	batting:2	pitchers:2	braves:6	keith:1	team:7	game:21	pitching:5	
+rec.sport.baseball	baseball:1	
+rec.sport.baseball	game:5	
+rec.sport.baseball	rutgers:1	players:2	
+rec.sport.baseball	rec.sport.baseball:1	
+rec.sport.baseball	baseball:1	
+rec.sport.baseball	moon:1	baseball:2	pitchers:1	braves:1	game:1	team:1	pitching:1	
+rec.sport.baseball	jays:2	baseball:1	
+rec.sport.baseball	baseball:5	pitchers:1	braves:4	players:6	rec.sport.baseball:1	team:4	game:1	
+rec.sport.baseball	baseball:1	
+rec.sport.baseball	god:2	
+rec.sport.baseball	baseball:1	braves:1	team:1	
+rec.sport.baseball	baseball:1	players:4	team:1	
+rec.sport.baseball	pitchers:1	
+rec.sport.baseball	game:1	
+rec.sport.baseball	cup:1	god:1	batting:1	braves:1	pitching:2	
+rec.sport.baseball	baseball:1	team:1	pitching:1	dos:1	
+rec.sport.baseball	jays:2	
+rec.motorcycles	rec.motorcycles:16	ride:15	god:1	engine:1	ama:5	space:1	gun:1	bike:6	riding:8	bikes:2	dod:97	motorcycle:23	bmw:11	widget:1	gif:1	
+rec.sport.baseball	game:1	batting:1	baseball:1	players:1	
+rec.sport.baseball	hockey:1	baseball:1	
+rec.sport.baseball	jays:1	pitcher:1	pitching:1	
+rec.sport.baseball	hitter:3	baseball:1	
+rec.sport.baseball	jays:3	hitter:3	braves:4	team:2	game:1	baseball:1	pitchers:1	
+rec.sport.baseball	hitter:1	baseball:2	
+rec.sport.baseball	jays:2	game:1	players:9	
+rec.sport.baseball	key:1	
+rec.sport.baseball	jays:1	misc.legal:1	
+rec.sport.baseball	hitter:1	pitching:2	baseball:3	
+rec.sport.baseball	baseball:2	card:1	
+rec.sport.baseball	players:3	
+rec.sport.baseball	graphics:1	
+rec.sport.baseball	pitching:1	batting:2	pitchers:1	players:1	
+rec.sport.baseball	hitter:1	game:1	baseball:1	batting:1	
+rec.sport.baseball	pitchers:2	
+rec.sport.baseball	game:1	baseball:1	batting:1	
+rec.sport.baseball	rutgers:1	team:1	
+rec.sport.baseball	team:2	baseball:3	
+rec.sport.baseball	players:3	
+rec.sport.baseball	game:1	
+rec.sport.baseball	baseball:1	
+rec.sport.baseball	team:1	misc.legal:1	
+rec.sport.baseball	baseball:1	
+rec.sport.baseball	pitcher:1	
+rec.sport.baseball	misc.legal:1	pitchers:4	
+rec.sport.baseball	baseball:2	pitchers:1	players:2	
+rec.sport.baseball	hitter:3	batting:1	baseball:3	players:7	
+rec.sport.baseball	braves:3	team:1	game:1	baseball:3	
+rec.sport.baseball	hitter:1	pitching:1	
+rec.sport.baseball	jays:1	team:2	baseball:2	card:1	
+rec.sport.baseball	hitter:1	pitching:1	batf:1	
+rec.sport.baseball	game:2	medical:1	batting:2	
+rec.sport.baseball	hitter:2	game:1	baseball:1	players:1	batf:1	
+rec.sport.baseball	hitter:1	players:1	
+rec.sport.baseball	hitter:3	pitching:1	
+rec.sport.baseball	team:1	pitching:1	
+rec.sport.baseball	batting:1	
+rec.sport.baseball	jays:2	team:1	
+rec.sport.baseball	jays:1	braves:2	team:5	pitching:4	baseball:1	pitchers:1	players:2	key:1	
+rec.sport.baseball	hitter:1	braves:4	pitchers:1	players:7	keith:1	
+rec.sport.baseball	braves:1	team:1	pitchers:1	players:1	
+rec.sport.baseball	jays:1	braves:1	baseball:1	
+rec.sport.baseball	braves:2	batting:1	
+rec.sport.baseball	baseball:2	players:1	
+rec.sport.baseball	medical:1	
+rec.sport.baseball	team:1	
+rec.sport.baseball	baseball:1	graphics:2	
+rec.sport.baseball	players:2	
+rec.sport.baseball	pitcher:1	
+rec.sport.baseball	keith:2	
+rec.sport.baseball	game:1	
+rec.sport.baseball	game:1	
+rec.sport.baseball	team:2	baseball:2	players:2	keith:3	
+rec.sport.baseball	game:1	
+rec.sport.baseball	braves:6	team:4	
+rec.sport.baseball	god:1	game:2	pitching:1	key:1	
+rec.sport.baseball	braves:1	
+rec.sport.baseball	hitter:1	game:1	team:2	playoff:1	baseball:1	pitchers:2	players:5	
+rec.sport.baseball	hitter:1	braves:5	team:2	pitching:2	baseball:1	players:1	
+rec.sport.baseball	jays:1	
+rec.sport.baseball	hitter:1	baseball:1	
+rec.sport.baseball	baseball:2	
+rec.motorcycles	ride:1	engine:1	condition:1	bike:1	bikes:1	card:1	bmw:3	
+rec.motorcycles	bike:1	bikes:1	riding:1	dod:1	
+rec.motorcycles	dod:1	
+rec.motorcycles	ride:3	engine:1	bike:3	riding:2	
+rec.motorcycles	ride:1	riding:1	
+rec.motorcycles	biker:1	dod:1	
+rec.motorcycles	riding:1	biker:1	cars:1	dod:1	
+rec.motorcycles	sale:1	dod:2	
+rec.motorcycles	bike:1	motorcycle:1	
+rec.motorcycles	ride:1	engine:1	bike:1	
+rec.motorcycles	ride:1	guns:1	
+rec.motorcycles	bike:1	dod:1	
+rec.motorcycles	ride:2	
+rec.motorcycles	motorcycle:1	
+rec.motorcycles	shipping:1	
+rec.motorcycles	ride:3	
+rec.motorcycles	ride:2	riding:2	
+rec.motorcycles	riding:1	
+rec.motorcycles	ride:1	
+rec.motorcycles	rec.motorcycles:1	dod:4	
+rec.motorcycles	god:1	biker:1	dod:1	
+rec.motorcycles	engine:1	dod:1	
+rec.motorcycles	ama:1	bike:3	dod:1	
+rec.motorcycles	ama:1	dod:1	
+rec.motorcycles	sale:1	
+rec.motorcycles	bike:2	dod:1	
+rec.motorcycles	bikes:1	
+rec.motorcycles	ride:2	bike:3	riding:1	dod:1	
+rec.motorcycles	bikes:1	riding:1	biker:1	dod:1	
+rec.motorcycles	dod:1	
+rec.motorcycles	bike:1	dod:1	
+rec.motorcycles	dod:1	
+rec.motorcycles	rec.motorcycles:1	ama:1	dod:3	
+rec.motorcycles	bike:1	dod:1	
+rec.motorcycles	bike:2	
+rec.motorcycles	bikes:1	dod:1	
+rec.motorcycles	sale:1	dod:1	
+rec.motorcycles	biker:1	dod:1	
+rec.motorcycles	bikes:1	
+rec.motorcycles	ride:1	bike:1	riding:1	dod:1	motorcycle:1	bmw:5	
+rec.motorcycles	bike:5	dod:1	bmw:1	motorcycle:1	
+rec.motorcycles	ride:1	engine:1	ama:1	dod:1	
+rec.motorcycles	bike:5	riding:1	
+rec.motorcycles	car:1	ride:1	riding:3	
+rec.motorcycles	bike:1	riding:1	bikes:3	
+rec.motorcycles	ride:1	riding:3	motorcycle:3	
+rec.motorcycles	ms:9	ama:1	bike:4	riding:3	dod:1	
+rec.motorcycles	bike:3	motorcycle:1	
+rec.motorcycles	bike:1	bikes:1	
+rec.motorcycles	car:2	gun:1	bikes:2	riding:1	biker:1	cars:1	
+rec.motorcycles	ride:1	bike:2	dod:3	
+rec.motorcycles	dod:1	
+rec.motorcycles	dod:1	key:1	
+rec.motorcycles	ama:1	dod:1	
+rec.motorcycles	ama:1	shipping:1	dod:1	
+rec.motorcycles	condition:1	bike:3	riding:3	dod:1	
+rec.motorcycles	car:2	
+rec.motorcycles	bike:1	bikes:1	
+rec.motorcycles	ride:2	riding:4	dod:1	
+rec.motorcycles	dod:1	
+rec.motorcycles	rec.motorcycles:1	bike:1	bikes:1	dod:1	
+rec.motorcycles	ama:1	motorcycle:1	
+rec.motorcycles	ride:1	riding:1	
+rec.motorcycles	bike:1	dod:1	
+rec.motorcycles	condition:1	bmw:2	
+rec.motorcycles	bike:1	dod:1	motorcycle:1	
+rec.motorcycles	bike:2	dod:1	
+rec.motorcycles	offer:1	sale:2	bike:2	bmw:2	
+rec.motorcycles	car:1	ride:2	riding:2	dod:1	
+rec.motorcycles	ride:1	bike:1	riding:1	dod:2	
+rec.motorcycles	ride:1	bike:3	dod:1	
+rec.motorcycles	dod:1	
+rec.motorcycles	condition:1	sale:2	
+rec.motorcycles	riding:1	
+rec.motorcycles	bike:4	
+rec.motorcycles	bike:1	cars:1	motorcycle:1	
+rec.motorcycles	car:2	ford:1	
+rec.motorcycles	bike:1	riding:1	bikes:1	dod:1	
+rec.motorcycles	bike:2	bikes:1	dod:1	
+rec.motorcycles	engine:1	sale:1	
+rec.motorcycles	ride:1	bike:1	
+rec.motorcycles	dod:1	
+rec.motorcycles	ride:1	bike:1	riding:1	dod:1	
+rec.motorcycles	engine:1	dod:1	
+rec.motorcycles	engine:1	
+rec.motorcycles	engine:1	ama:1	space:1	bikes:1	bmw:1	dod:1	
+rec.motorcycles	bikes:1	
+rec.motorcycles	riding:2	
+rec.motorcycles	ride:1	bike:1	motorcycle:1	dod:1	
+rec.motorcycles	riding:1	
+rec.motorcycles	bikes:1	bmw:1	
+rec.motorcycles	car:1	gun:1	bikes:1	riding:1	biker:1	motorcycle:1	
+rec.motorcycles	bike:3	riding:1	dod:1	
+rec.motorcycles	space:1	bike:1	ford:1	
+rec.motorcycles	ride:1	bike:1	riding:1	
+rec.motorcycles	riding:1	
+rec.motorcycles	ride:1	bike:2	riding:1	biker:1	
+rec.motorcycles	ride:4	riding:4	dod:1	
+rec.motorcycles	bike:2	dod:2	
+rec.motorcycles	ride:1	image:1	bike:1	bikes:1	dod:1	
+rec.motorcycles	ride:1	bike:1	riding:1	dod:1	
+rec.motorcycles	ride:1	bike:1	dod:1	
+rec.motorcycles	space:1	riding:2	dod:1	
+sci.crypt	condition:1	ms:1	mac:2	crypto:2	dos:1	approved:1	encryption:4	sci.crypt:1	key:31	
+sci.crypt	condition:1	ms:1	mac:1	crypto:2	dos:1	approved:1	encryption:3	sci.crypt:1	key:40	
+sci.crypt	encryption:2	key:20	
+sci.crypt	nsa:1	approved:4	3d:1	dod:1	
+sci.crypt	fbi:1	
+sci.crypt	key:2	
+sci.crypt	key:3	
+sci.crypt	nsa:1	crypto:1	
+sci.crypt	nsa:1	key:1	
+sci.crypt	space:1	encryption:1	key:1	
+sci.crypt	nsa:1	key:3	
+sci.crypt	nsa:1	encryption:1	key:1	
+sci.crypt	space:4	key:1	
+sci.crypt	nsa:2	key:2	
+sci.crypt	team:1	encryption:4	key:1	
+sci.crypt	fbi:1	
+sci.crypt	chip:1	moon:1	gun:1	fbi:1	key:1	
+sci.crypt	fbi:1	
+sci.crypt	encryption:1	
+sci.crypt	nsa:1	crypto:2	key:1	
+sci.crypt	space:2	dos:5	fbi:1	key:1	
+sci.crypt	x11r5:1	key:1	
+sci.crypt	x11r5:1	key:1	
+sci.crypt	key:1	
+sci.crypt	nsa:1	fbi:1	
+sci.crypt	windows:1	fbi:1	encryption:2	key:3	
+sci.crypt	approved:1	3d:1	encryption:1	sci.crypt:1	key:3	
+sci.crypt	crypto:2	key:6	
+sci.crypt	graphics:1	
+sci.crypt	3.1:2	image:1	windows:11	game:1	alt.sex:1	window:2	encryption:10	sci.crypt:1	card:1	images:2	x11r5:2	key:1	
+sci.crypt	nsa:2	3.1:1	windows:3	alt.security:3	game:3	crypto:1	fbi:14	window:3	encryption:16	apple:1	sci.crypt:5	card:2	images:1	key:11	
+sci.crypt	3.1:1	shuttle:1	windows:1	game:1	talk.abortion:1	sci.astro:1	encryption:9	key:3	
+sci.crypt	offer:1	
+sci.crypt	crypto:1	key:2	
+sci.crypt	space:1	key:1	
+sci.crypt	key:2	
+sci.crypt	chip:15	escrow:9	clipper:11	encryption:28	images:1	key:12	
+sci.crypt	fbi:2	key:7	
+sci.crypt	chip:1	clipper:2	encryption:1	
+sci.crypt	chip:2	escrow:1	crypto:1	approved:1	clipper:3	encryption:3	key:2	
+sci.crypt	encryption:2	
+sci.crypt	chip:14	escrow:11	crypto:1	clipper:10	encryption:28	images:1	key:14	
+sci.crypt	chip:1	escrow:2	crypto:1	clipper:3	encryption:1	sci.crypt:1	key:2	
+sci.crypt	crypto:2	misc.legal:1	key:9	
+sci.crypt	chip:10	nsa:2	escrow:6	crypto:5	fbi:1	clipper:7	encryption:25	key:8	
+sci.crypt	chip:2	clipper:5	encryption:12	key:1	
+sci.crypt	chip:14	escrow:9	clipper:9	encryption:28	images:1	key:12	
+sci.crypt	mac:1	3d:1	
+sci.crypt	chip:5	nsa:2	escrow:7	team:1	crypto:2	fbi:1	clipper:5	encryption:6	key:6	
+sci.crypt	chip:1	crypto:1	clipper:1	3d:1	encryption:2	
+sci.crypt	offer:1	graphics:1	
+sci.crypt	chip:2	escrow:7	approved:1	clipper:3	encryption:15	key:8	
+sci.crypt	chip:5	nsa:1	escrow:6	team:1	crypto:1	fbi:1	clipper:4	encryption:4	key:7	
+sci.crypt	chip:1	crypto:4	clipper:2	
+sci.crypt	chip:1	nsa:3	escrow:4	crypto:3	clipper:2	encryption:2	key:2	
+sci.crypt	nsa:1	escrow:1	crypto:2	key:8	
+sci.crypt	escrow:1	encryption:3	
+sci.crypt	chip:2	clipper:6	encryption:10	key:1	
+sci.crypt	encryption:1	
+sci.crypt	escrow:2	crypto:1	key:5	
+sci.crypt	encryption:1	key:7	
+sci.crypt	chip:1	nsa:1	sale:1	key:5	
+sci.crypt	chip:1	nsa:1	escrow:1	approved:1	clipper:2	encryption:3	key:1	
+sci.crypt	escrow:1	encryption:4	key:1	
+sci.crypt	clipper:2	key:4	
+sci.crypt	chip:1	clipper:2	encryption:3	
+sci.crypt	chip:3	escrow:2	clipper:4	encryption:4	sci.crypt:1	key:3	
+sci.crypt	escrow:1	crypto:1	key:4	
+sci.crypt	chip:16	escrow:9	clipper:15	encryption:28	images:1	key:12	
+sci.crypt	chip:1	clipper:2	encryption:1	key:1	
+sci.crypt	chip:3	fbi:1	clipper:3	encryption:4	
+sci.crypt	chip:1	nsa:3	encryption:5	
+sci.crypt	chip:4	team:1	crypto:1	clipper:7	encryption:1	key:1	
+sci.crypt	chip:2	clipper:2	encryption:2	key:1	
+sci.crypt	escrow:1	crypto:1	clipper:1	encryption:4	key:1	
+sci.crypt	chip:1	god:1	gun:1	clipper:1	encryption:1	
+sci.crypt	chip:1	fbi:1	clipper:1	encryption:2	
+sci.crypt	chip:1	escrow:2	offer:1	crypto:1	clipper:2	encryption:1	key:2	
+sci.crypt	escrow:3	encryption:1	key:3	
+sci.crypt	chip:2	clipper:5	encryption:8	key:3	
+sci.crypt	chip:1	offer:1	clipper:3	encryption:4	
+sci.crypt	chip:2	nsa:1	sale:1	key:5	
+sci.crypt	chip:2	escrow:1	crypto:1	key:1	
+sci.crypt	chip:1	escrow:1	clipper:1	encryption:1	key:1	
+sci.crypt	chip:1	escrow:3	clipper:1	encryption:2	key:1	
+sci.crypt	chip:2	escrow:3	clipper:1	
+sci.crypt	chip:1	escrow:2	offer:1	crypto:2	clipper:2	encryption:1	key:3	
+sci.crypt	chip:1	clipper:1	encryption:1	
+sci.crypt	nsa:2	encryption:4	sci.crypt:7	key:9	
+sci.crypt	moon:1	encryption:5	sci.crypt:4	key:22	
+sci.crypt	nsa:1	ms:1	crypto:2	encryption:11	sci.crypt:5	card:2	controller:1	key:43	
+sci.crypt	alt.security:2	crypto:9	610:1	encryption:13	sci.crypt:5	dod:1	comp.org.eff.talk:1	key:8	
+sci.crypt	offer:1	
+sci.crypt	space:2	encryption:6	sci.crypt:4	key:15	
+sci.crypt	nsa:1	escrow:1	clipper:1	key:1	
+sci.crypt	chip:1	escrow:3	crypto:1	clipper:2	encryption:2	key:2	
+sci.crypt	nsa:1	encryption:6	sci.crypt:13	comp.org.eff.talk:1	key:2	
+sci.crypt	chip:3	christian:1	nsa:10	crypto:1	encryption:19	sci.crypt:5	key:37	
+sci.crypt	encryption:1	sci.crypt:4	key:20	
+sci.crypt	encryption:5	sci.crypt:4	key:10	
+sci.crypt	nsa:8	encryption:2	sci.crypt:7	key:3	
+sci.crypt	chip:1	escrow:1	clipper:1	key:2	
+sci.crypt	key:2	
+sci.crypt	clipper:1	encryption:1	key:3	
+sci.crypt	chip:1	escrow:3	clipper:2	encryption:1	key:1	
+sci.crypt	chip:1	god:1	firearms:1	gun:2	clipper:1	encryption:1	
+sci.crypt	chip:1	clipper:2	encryption:2	key:1	
+sci.crypt	chip:1	nsa:2	escrow:1	offer:1	crypto:1	approved:1	clipper:1	encryption:10	key:2	
+talk.politics.misc	ride:1	
+talk.politics.misc	gun:1	
+talk.politics.misc	cramer:2	clayton:1	gay:1	optilink.com:2	
+talk.politics.misc	cramer:2	clayton:1	gay:1	optilink.com:2	
+talk.politics.misc	offer:1	israel:2	
+talk.politics.misc	offer:2	
+talk.politics.misc	circuit:2	
+talk.politics.misc	gun:1	guns:2	
+talk.politics.misc	offer:2	medical:4	
+talk.politics.misc	car:1	game:1	fbi:1	
+talk.politics.misc	morality:1	
+talk.politics.misc	god:2	gay:1	key:1	
+talk.politics.misc	condition:1	cramer:5	clayton:2	gay:1	optilink.com:1	
+talk.politics.misc	god:1	
+talk.politics.misc	firearms:2	
+talk.politics.misc	baseball:1	
+talk.politics.misc	space:1	
+talk.politics.misc	cramer:5	alt.sex:1	talk.politics.misc:1	clayton:3	gay:1	soc.men:1	
+talk.politics.misc	fbi:1	
+talk.politics.misc	cramer:9	clayton:4	gay:1	optilink.com:3	
+talk.politics.misc	cramer:6	clayton:3	optilink.com:2	
+talk.politics.misc	cramer:4	fbi:1	clayton:2	optilink.com:1	
+talk.politics.misc	cramer:9	clayton:7	3d:2	gay:1	optilink.com:3	
+talk.politics.misc	cramer:6	gun:1	clayton:4	optilink.com:2	
+talk.politics.misc	cramer:4	clayton:2	optilink.com:1	
+talk.politics.misc	cramer:4	clayton:2	optilink.com:1	
+talk.politics.misc	cramer:4	clayton:2	optilink.com:1	
+talk.politics.misc	cramer:4	clayton:2	optilink.com:1	
+talk.politics.misc	cramer:4	clayton:2	optilink.com:1	
+talk.politics.misc	christian:1	
+talk.politics.misc	ride:2	god:1	game:1	
+talk.politics.misc	god:1	condition:1	game:2	space:2	
+talk.politics.misc	rutgers:2	
+talk.politics.misc	610:1	
+talk.politics.misc	misc.legal:1	gay:2	
+talk.politics.misc	dod:1	
+talk.politics.misc	waco:2	batf:3	
+talk.politics.misc	medicine:2	
+talk.politics.misc	windows:1	
+talk.politics.misc	clayton:1	
+talk.politics.misc	windows:1	
+talk.politics.misc	windows:1	
+talk.politics.misc	windows:1	
+talk.politics.misc	sale:1	
+talk.politics.misc	ride:1	moon:1	god:3	image:1	team:8	space:4	guns:1	medical:1	key:6	
+talk.politics.misc	rutgers:2	
+talk.politics.misc	rutgers:2	
+talk.politics.misc	fbi:1	
+talk.politics.misc	game:1	space:1	
+talk.politics.misc	condition:1	game:4	fbi:1	baseball:3	
+talk.politics.misc	game:2	
+talk.politics.misc	cramer:9	clayton:5	gay:3	optilink.com:5	
+talk.politics.misc	rutgers:1	optilink.com:2	
+talk.politics.misc	cramer:4	clayton:2	optilink.com:1	
+talk.politics.misc	gay:3	optilink.com:3	
+talk.politics.misc	gay:1	optilink.com:3	
+talk.politics.misc	bus:1	talk.politics.misc:1	
+soc.religion.christian	athos.rutgers.edu:2	microsoft:1	
+soc.religion.christian	christian:4	god:1	image:1	athos.rutgers.edu:1	
+soc.religion.christian	athos.rutgers.edu:2	
+soc.religion.christian	god:56	condition:1	
+soc.religion.christian	cramer:1	
+soc.religion.christian	god:1	offer:1	
+soc.religion.christian	christian:2	god:4	space:1	
+soc.religion.christian	israel:1	athos.rutgers.edu:1	
+soc.religion.christian	christian:1	god:2	athos.rutgers.edu:1	
+soc.religion.christian	god:3	offer:1	athos.rutgers.edu:1	
+soc.religion.christian	moon:1	god:7	athos.rutgers.edu:1	
+soc.religion.christian	god:6	disease:6	athos.rutgers.edu:2	
+soc.religion.christian	christian:2	god:1	israeli:2	
+soc.religion.christian	christian:1	god:1	space:1	athos.rutgers.edu:1	
+soc.religion.christian	christian:3	god:4	mormons:1	
+soc.religion.christian	ride:1	god:5	images:1	
+soc.religion.christian	offer:1	
+soc.religion.christian	christian:5	god:5	launch:1	offer:1	athos.rutgers.edu:1	
+soc.religion.christian	christian:1	god:2	athos.rutgers.edu:1	
+soc.religion.christian	christian:2	
+soc.religion.christian	god:1	
+soc.religion.christian	christian:1	athos.rutgers.edu:1	
+soc.religion.christian	christian:2	mac:1	
+soc.religion.christian	cup:1	christian:1	god:1	
+soc.religion.christian	god:1	
+soc.religion.christian	athos.rutgers.edu:2	microsoft:1	
+soc.religion.christian	christian:1	god:2	space:1	
+soc.religion.christian	god:4	
+soc.religion.christian	athos.rutgers.edu:1	
+soc.religion.christian	athos.rutgers.edu:1	
+soc.religion.christian	god:10	
+soc.religion.christian	god:1	athos.rutgers.edu:1	
+soc.religion.christian	god:2	athos.rutgers.edu:2	
+soc.religion.christian	god:5	disease:3	gay:1	
+soc.religion.christian	athos.rutgers.edu:1	
+soc.religion.christian	mac:1	athos.rutgers.edu:1	
+soc.religion.christian	god:5	athos.rutgers.edu:1	
+soc.religion.christian	god:3	israel:4	athos.rutgers.edu:1	
+soc.religion.christian	god:1	athos.rutgers.edu:1	
+soc.religion.christian	god:25	athos.rutgers.edu:2	
+soc.religion.christian	athos.rutgers.edu:1	
+soc.religion.christian	christian:3	god:5	athos.rutgers.edu:1	
+soc.religion.christian	christian:4	
+soc.religion.christian	god:1	
+soc.religion.christian	christian:1	
+soc.religion.christian	god:1	atheists:3	
+soc.religion.christian	christian:2	god:5	space:1	athos.rutgers.edu:1	
+soc.religion.christian	god:7	offer:1	
+soc.religion.christian	god:2	
+soc.religion.christian	god:4	
+soc.religion.christian	christian:1	god:2	
+soc.religion.christian	god:2	atheists:1	
+soc.religion.christian	christian:3	god:2	
+soc.religion.christian	christian:1	god:7	offer:1	athos.rutgers.edu:2	
+soc.religion.christian	god:2	athos.rutgers.edu:1	
+soc.religion.christian	christian:2	athos.rutgers.edu:1	
+soc.religion.christian	god:1	soc.religion.christian:1	
+soc.religion.christian	christian:3	disease:1	
+soc.religion.christian	god:1	
+soc.religion.christian	god:1	gay:1	
+soc.religion.christian	christian:1	athos.rutgers.edu:1	
+soc.religion.christian	god:3	atheists:3	
+soc.religion.christian	god:2	athos.rutgers.edu:1	
+soc.religion.christian	god:1	
+soc.religion.christian	christian:1	athos.rutgers.edu:1	
+soc.religion.christian	christian:1	god:1	athos.rutgers.edu:2	
+soc.religion.christian	god:2	
+soc.religion.christian	christian:1	space:1	athos.rutgers.edu:1	atheism:1	
+soc.religion.christian	athos.rutgers.edu:1	
+soc.religion.christian	god:2	soc.religion.christian:1	
+soc.religion.christian	god:1	
+soc.religion.christian	christian:1	athos.rutgers.edu:1	
+soc.religion.christian	god:2	
+soc.religion.christian	god:1	offer:1	
+soc.religion.christian	christian:1	god:3	
+soc.religion.christian	god:7	approved:1	
+soc.religion.christian	christian:1	god:2	disease:1	space:1	atheism:1	talk.origins:1	
+soc.religion.christian	christian:1	
+soc.religion.christian	god:1	athos.rutgers.edu:2	
+soc.religion.christian	god:2	athos.rutgers.edu:1	
+soc.religion.christian	god:1	
+soc.religion.christian	god:1	offer:1	athos.rutgers.edu:1	
+soc.religion.christian	god:1	
+soc.religion.christian	athos.rutgers.edu:1	
+soc.religion.christian	christian:2	god:2	
+soc.religion.christian	christian:1	god:3	athos.rutgers.edu:1	
+soc.religion.christian	christian:14	god:1	
+soc.religion.christian	god:1	athos.rutgers.edu:1	
+soc.religion.christian	god:3	
+comp.graphics	offer:1	
+comp.graphics	image:1	polygon:1	
+comp.graphics	image:1	card:1	
+comp.graphics	mac:2	graphics:1	
+comp.graphics	3d:2	
+comp.graphics	image:1	mac:2	images:6	
+comp.graphics	image:1	mac:1	images:1	
+comp.graphics	3.1:1	ms:1	windows:2	3d:2	graphics:3	
+comp.graphics	graphics:2	
+comp.graphics	chip:1	players:2	
+comp.graphics	graphics:1	
+comp.graphics	3d:1	
+comp.graphics	windows:1	graphics:4	x11:1	
+comp.graphics	image:6	windows:1	window:1	x11r5:1	
+comp.graphics	images:3	
+comp.graphics	images:1	
+comp.graphics	3d:1	
+comp.graphics	graphics:2	
+comp.graphics	game:1	
+comp.graphics	game:1	
+comp.graphics	graphics:1	gif:1	
+comp.graphics	polygon:1	3d:1	
+comp.graphics	game:2	images:1	graphics:4	gif:1	
+comp.graphics	image:2	images:1	
+comp.graphics	card:1	
+comp.graphics	3d:1	graphics:2	
+comp.graphics	image:1	card:1	
+comp.graphics	graphics:1	
+comp.graphics	3.1:1	windows:3	dos:2	
+comp.graphics	animation:1	graphics:1	
+comp.graphics	image:1	
+comp.graphics	image:1	
+comp.graphics	medical:2	images:2	
+comp.graphics	ms:1	dos:2	
+comp.graphics	bios:1	graphics:1	
+comp.graphics	graphics:1	
+comp.graphics	quadra:1	
+comp.graphics	image:1	microsoft:1	images:2	gif:1	tiff:1	
+comp.graphics	tiff:3	
+comp.graphics	windows:2	
+comp.graphics	image:2	graphics:1	
+comp.graphics	tiff:6	
+comp.graphics	card:1	graphics:2	
+comp.graphics	chip:2	windows:2	graphics:2	
+comp.graphics	ms:1	microsoft:1	window:1	
+comp.graphics	gif:1	
+comp.graphics	window:2	
+comp.graphics	image:1	ford:1	
+comp.graphics	animation:2	shipping:1	3d:4	key:1	
+comp.graphics	shipping:1	3d:3	graphics:1	
+comp.graphics	bios:1	card:2	graphics:2	
+comp.graphics	animation:2	graphics:4	
+comp.graphics	ms:1	image:3	
+comp.graphics	windows:2	
+comp.graphics	image:1	graphics:3	
+comp.graphics	image:1	
+comp.graphics	polygon:3	
+comp.graphics	ms:1	image:1	windows:1	space:7	dos:4	
+comp.graphics	polygon:4	
+comp.graphics	dos:2	window:1	
+comp.graphics	animation:2	
+comp.graphics	image:1	images:1	
+comp.graphics	chip:2	graphics:1	
+comp.graphics	comp.graphics:1	graphics:1	
+comp.graphics	image:1	clipper:2	graphics:4	
+comp.graphics	polygon:5	graphics:1	
+comp.graphics	condition:1	polygon:14	comp.graphics:1	circuit:1	graphics:1	
+comp.graphics	polygon:7	
+comp.graphics	image:1	
+comp.graphics	card:2	
+comp.graphics	image:1	medicine:1	tiff:7	
+comp.graphics	graphics:1	
+comp.graphics	animation:1	image:1	space:1	3d:2	graphics:17	
+comp.graphics	polygon:9	comp.graphics:1	
+comp.graphics	image:1	windows:1	
+comp.graphics	graphics:1	gif:1	
+comp.graphics	graphics:1	
+comp.graphics	graphics:1	
+comp.graphics	animation:2	
+comp.graphics	bus:1	isa:1	graphics:1	
+comp.graphics	3d:1	graphics:1	
+comp.graphics	animation:1	mac:1	offer:1	3d:2	graphics:2	
+comp.graphics	shipping:1	3d:4	key:1	
+comp.graphics	disease:1	
+comp.graphics	comp.graphics:1	graphics:3	
+comp.graphics	animation:1	mac:1	offer:1	3d:3	graphics:3	
+comp.graphics	image:2	
+comp.graphics	3d:1	
+comp.graphics	keith:1	
+comp.graphics	images:1	
+comp.graphics	graphics:1	
+comp.graphics	card:1	graphics:1	
+alt.atheism	christian:4	god:15	mantis.co.uk:4	3d:1	atheism:11	cars:1	card:1	alt.atheism:1	morality:1	
+comp.sys.mac.hardware	mac:4	apple:6	
+comp.sys.mac.hardware	centris:2	
+comp.sys.mac.hardware	comp.sys.ibm.pc.hardware:1	window:1	isa:1	ford:1	
+comp.sys.mac.hardware	apple:1	
+comp.sys.mac.hardware	apple:1	
+comp.sys.mac.hardware	mac:1	
+comp.sys.mac.hardware	mac:1	powerbook:1	
+comp.sys.mac.hardware	sale:2	apple:2	card:1	
+comp.sys.mac.hardware	mac:1	
+comp.sys.mac.hardware	centris:2	610:2	apple:1	
+comp.sys.mac.hardware	chip:1	centris:2	quadra:2	apple:2	
+comp.sys.mac.hardware	centris:1	
+comp.sys.mac.hardware	apple:1	
+comp.sys.mac.hardware	mac:5	apple:4	card:1	
+comp.sys.mac.hardware	iisi:2	
+comp.sys.mac.hardware	gun:1	
+comp.sys.mac.hardware	quadra:2	
+comp.sys.mac.hardware	centris:2	610:2	lciii:2	
+comp.sys.mac.hardware	iisi:4	
+comp.sys.mac.hardware	apple:1	powerbook:1	key:3	
+comp.sys.mac.hardware	mac:2	lc:2	
+comp.sys.mac.hardware	centris:2	610:2	apple:3	
+comp.sys.mac.hardware	apple:1	
+comp.sys.mac.hardware	iisi:1	sale:4	shipping:1	card:2	
+comp.sys.mac.hardware	mac:1	
+comp.sys.mac.hardware	mac:1	card:1	lc:2	
+comp.sys.mac.hardware	centris:2	610:2	apple:1	lciii:3	lc:1	
+comp.sys.mac.hardware	apple:1	
+comp.sys.mac.hardware	mac:1	powerbook:2	
+comp.sys.mac.hardware	quadra:1	graphics:1	
+comp.sys.mac.hardware	centris:3	610:3	apple:1	
+comp.sys.mac.hardware	centris:2	quadra:1	
+comp.sys.mac.hardware	image:1	centris:2	610:2	circuits:1	
+comp.sys.mac.hardware	baseball:1	motherboard:1	
+comp.sys.mac.hardware	mac:1	scsi:2	
+comp.sys.mac.hardware	apple:1	
+comp.sys.mac.hardware	chip:3	comp.sys.mac.hardware:1	quadra:1	apple:3	card:2	
+comp.sys.mac.hardware	windows:4	mac:2	dos:1	microsoft:1	quadra:1	apple:5	keith:1	
+comp.sys.mac.hardware	christian:2	voltage:1	
+comp.sys.mac.hardware	christian:2	apple:3	
+comp.sys.mac.hardware	bus:2	centris:2	mac:1	610:4	apple:2	lciii:5	
+comp.sys.mac.hardware	mac:1	apple:1	lc:11	
+comp.sys.mac.hardware	god:2	dod:1	
+comp.sys.mac.hardware	powerbook:3	
+comp.sys.mac.hardware	quadra:2	
+comp.sys.mac.hardware	resistor:1	
+comp.sys.mac.hardware	forsale:1	mac:2	shipping:1	card:8	
+comp.sys.mac.hardware	apple:5	
+comp.sys.mac.hardware	mac:3	centris:2	610:3	lciii:2	
+comp.sys.mac.hardware	iisi:1	mac:2	
+comp.sys.mac.hardware	window:1	quadra:1	
+comp.sys.mac.hardware	scsi:3	
+comp.sys.mac.hardware	rutgers:2	centris:1	scsi:1	shipping:2	610:2	apple:3	
+comp.sys.mac.hardware	chip:1	mac:1	apple:3	lc:2	motherboard:1	
+comp.sys.mac.hardware	mac:1	
+comp.sys.mac.hardware	apple:2	quadra:1	
+comp.sys.mac.hardware	mac:1	space:1	apple:6	quadra:3	lc:3	
+comp.sys.mac.hardware	apple:1	powerbook:1	
+comp.sys.mac.hardware	christian:2	ms:2	apple:4	
+comp.sys.mac.hardware	rutgers:2	mac:3	
+comp.sys.mac.hardware	space:2	
+comp.sys.mac.hardware	apple:1	
+comp.sys.mac.hardware	apple:1	
+comp.sys.mac.hardware	card:1	powerbook:1	
+comp.sys.mac.hardware	lciii:3	
+comp.sys.mac.hardware	apple:1	
+comp.sys.mac.hardware	mac:1	apple:1	lciii:3	lc:1	
+comp.sys.mac.hardware	powerbook:1	
+comp.sys.mac.hardware	iisi:1	mac:2	
+comp.sys.mac.hardware	scsi:1	apple:1	
+comp.sys.mac.hardware	iisi:1	mac:3	space:3	scsi:3	amp:1	motherboard:2	electronics:1	
+comp.sys.mac.hardware	iisi:1	mac:3	space:3	scsi:3	amp:1	motherboard:2	electronics:1	
+comp.sys.mac.hardware	mac:1	scsi:1	
+comp.sys.mac.hardware	scsi:3	powerbook:3	graphics:3	
+comp.sys.mac.hardware	comp.sys.mac.hardware:1	apple:4	
+comp.sys.mac.hardware	centris:1	mac:1	scsi:2	quadra:1	
+comp.sys.mac.hardware	apple:2	
+comp.sys.mac.hardware	mac:1	
+comp.sys.mac.hardware	centris:1	mac:2	
+comp.sys.mac.hardware	iisi:2	
+comp.sys.mac.hardware	christian:2	ms:2	shipping:1	apple:10	
+comp.sys.mac.hardware	apple:2	
+comp.sys.mac.hardware	scsi:2	powerbook:1	graphics:2	
+comp.sys.mac.hardware	bus:1	mac:4	scsi:1	quadra:1	card:12	
+comp.sys.mac.hardware	quadra:1	apple:4	powerbook:1	
+comp.sys.mac.hardware	powerbook:2	
+comp.sys.mac.hardware	centris:1	quadra:1	
+comp.sys.mac.hardware	bus:1	apple:3	
+comp.sys.mac.hardware	centris:2	apple:1	
+comp.sys.mac.hardware	space:1	quadra:1	apple:4	powerbook:1	
+comp.sys.mac.hardware	apple:5	
+comp.sys.mac.hardware	scsi:1	apple:1	
+comp.sys.mac.hardware	scsi:2	apple:2	
+comp.sys.mac.hardware	christian:2	ms:2	centris:1	quadra:1	apple:5	
+comp.sys.mac.hardware	bus:1	apple:3	
+comp.sys.mac.hardware	centris:1	quadra:3	
+comp.sys.mac.hardware	mac:1	comp.sys.mac.hardware:1	dos:1	apple:2	powerbook:4	
+comp.sys.mac.hardware	mac:1	apple:1	card:7	
+comp.sys.mac.hardware	card:2	
+alt.atheism	cup:1	christian:12	god:55	mantis.co.uk:4	game:2	disease:1	atheism:47	alt.atheism:4	atheists:73	morality:7	
+alt.atheism	card:1	
+alt.atheism	christian:1	mantis.co.uk:1	
+alt.atheism	gay:1	
+alt.atheism	christian:1	god:17	game:1	atheism:1	
+alt.atheism	atheism:1	schneider:1	keith:3	atheists:2	
+alt.atheism	god:3	
+alt.atheism	livesey:3	solntze.wpd.sgi.com:1	schneider:2	keith:4	atheists:1	morality:6	
+alt.atheism	schneider:1	keith:4	
+alt.atheism	livesey:2	solntze.wpd.sgi.com:1	schneider:1	keith:3	
+alt.atheism	sandvik:2	schneider:2	keith:4	
+alt.atheism	schneider:2	keith:4	
+alt.atheism	car:2	gun:1	schneider:1	keith:3	atheists:1	
+alt.atheism	schneider:1	keith:3	atheists:1	
+alt.atheism	schneider:1	keith:3	atheists:1	
+alt.atheism	livesey:2	solntze.wpd.sgi.com:1	fido.asd.sgi.com:1	atheists:1	
+alt.atheism	circuits:1	
+alt.atheism	god:3	mantis.co.uk:2	
+alt.atheism	livesey:2	solntze.wpd.sgi.com:1	schneider:1	keith:3	atheists:1	
+alt.atheism	livesey:2	solntze.wpd.sgi.com:1	schneider:2	keith:4	atheists:1	
+alt.atheism	livesey:2	god:1	solntze.wpd.sgi.com:2	atheism:1	
+alt.atheism	livesey:2	solntze.wpd.sgi.com:2	
+alt.atheism	mantis.co.uk:1	schneider:1	keith:3	atheists:1	
+alt.atheism	mantis.co.uk:1	schneider:1	keith:3	atheists:2	
+alt.atheism	condition:1	team:2	dos:1	
+alt.atheism	atheists:4	
+alt.atheism	christian:1	god:22	mantis.co.uk:1	space:1	atheism:4	alt.atheism:1	
+alt.atheism	christian:1	atheism:2	atheists:2	
+alt.atheism	livesey:3	solntze.wpd.sgi.com:1	schneider:2	keith:4	atheists:1	morality:6	
+alt.atheism	god:4	atheists:1	
+alt.atheism	image:1	atheism:1	
+alt.atheism	god:1	turkish:1	atheism:2	atheists:1	
+alt.atheism	mantis.co.uk:1	schneider:1	keith:4	atheists:1	
+alt.atheism	god:5	atheism:4	alt.atheism:1	atheists:1	
+alt.atheism	gun:2	schneider:1	keith:3	atheists:1	
+alt.atheism	mantis.co.uk:1	schneider:1	keith:3	atheists:1	
+alt.atheism	atheists:5	
+alt.atheism	god:10	space:1	disease:1	
+alt.atheism	gay:4	
+alt.atheism	god:1	dos:1	keith:1	
+alt.atheism	god:8	disease:2	morality:1	
+alt.atheism	atheists:3	
+alt.atheism	god:3	
+alt.atheism	livesey:5	solntze.wpd.sgi.com:4	schneider:1	keith:2	atheists:1	morality:3	
+alt.atheism	livesey:3	solntze.wpd.sgi.com:3	schneider:1	keith:2	atheists:1	
+alt.atheism	livesey:5	solntze.wpd.sgi.com:4	schneider:2	keith:3	fido.asd.sgi.com:3	atheists:1	
+alt.atheism	livesey:3	solntze.wpd.sgi.com:3	schneider:1	keith:3	
+alt.atheism	livesey:5	solntze.wpd.sgi.com:4	schneider:1	keith:2	fido.asd.sgi.com:1	
+alt.atheism	god:2	morality:1	
+alt.atheism	livesey:4	solntze.wpd.sgi.com:3	keith:1	fido.asd.sgi.com:1	
+alt.atheism	livesey:4	solntze.wpd.sgi.com:3	keith:1	fido.asd.sgi.com:1	
+alt.atheism	livesey:4	solntze.wpd.sgi.com:3	fido.asd.sgi.com:1	
+alt.atheism	livesey:2	god:3	solntze.wpd.sgi.com:2	atheists:1	
+alt.atheism	christian:1	god:5	image:1	atheism:5	
+alt.atheism	atheists:1	
+alt.atheism	car:2	god:4	
+alt.atheism	car:1	livesey:2	mantis.co.uk:2	solntze.wpd.sgi.com:2	cars:2	atheists:1	
+alt.atheism	car:3	livesey:4	mantis.co.uk:2	solntze.wpd.sgi.com:3	atheists:1	
+alt.atheism	livesey:2	god:2	solntze.wpd.sgi.com:2	
+alt.atheism	god:3	space:1	
+alt.atheism	atheism:1	alt.atheism:1	talk.origins:1	
+alt.atheism	livesey:4	solntze.wpd.sgi.com:2	keith:1	fido.asd.sgi.com:2	
+alt.atheism	god:1	keith:1	
+alt.atheism	car:2	god:4	keith:1	
+alt.atheism	god:3	
+alt.atheism	christian:2	god:1	alt.atheism:1	
+alt.atheism	god:8	atheism:1	
+alt.atheism	god:2	gun:3	
+alt.atheism	god:2	keith:2	
+alt.atheism	god:3	keith:1	
+alt.atheism	livesey:2	god:2	solntze.wpd.sgi.com:1	atheism:1	fido.asd.sgi.com:1	
+alt.atheism	god:11	condition:1	disease:11	doctor:1	morality:1	
+alt.atheism	god:1	morality:1	
+alt.atheism	livesey:2	moon:1	god:3	dos:1	solntze.wpd.sgi.com:1	atheism:1	atheists:3	fido.asd.sgi.com:1	
+alt.atheism	god:12	game:2	disease:5	morality:1	
+alt.atheism	christian:1	god:1	turkish:2	
+alt.atheism	livesey:2	solntze.wpd.sgi.com:2	israeli:1	keith:1	
+alt.atheism	space:1	
+alt.atheism	livesey:2	solntze.wpd.sgi.com:2	
+alt.atheism	christian:1	god:4	offer:1	apple:1	atheists:3	
+alt.atheism	mantis.co.uk:1	schneider:1	keith:2	atheists:2	
+alt.atheism	god:2	space:1	
+sci.electronics	space:1	electronics:1	
+sci.electronics	electronics:1	
+sci.electronics	shuttle:1	cars:1	circuit:4	electronics:1	
+rec.sport.hockey	hockey:2	nhl:1	game:2	team:10	playoff:1	playoffs:4	
+rec.sport.hockey	hockey:2	nhl:1	game:1	team:3	
+rec.sport.hockey	nhl:1	
+rec.sport.hockey	nhl:1	
+rec.sport.hockey	cup:1	hockey:1	game:4	leafs:6	
+rec.sport.hockey	cup:1	players:2	
+rec.sport.hockey	nhl:1	team:3	
+rec.sport.hockey	nhl:1	
+rec.sport.hockey	nhl:1	
+rec.sport.hockey	cup:3	playoff:1	
+rec.sport.hockey	hockey:2	team:3	game:1	players:2	
+rec.sport.hockey	nhl:1	braves:1	playoffs:1	
+rec.sport.hockey	cup:2	hockey:1	
+rec.sport.hockey	cup:1	nhl:1	game:3	team:5	playoff:1	baseball:1	players:2	
+rec.sport.hockey	hockey:3	nhl:1	game:3	team:3	
+rec.sport.hockey	cup:1	hockey:2	
+rec.sport.hockey	nhl:1	bruins:1	game:1	team:3	leafs:1	players:1	
+rec.sport.hockey	nhl:1	team:2	
+rec.sport.hockey	christian:1	hockey:1	game:1	
+rec.sport.hockey	nhl:1	game:2	team:2	players:1	
+rec.sport.hockey	hockey:1	nhl:1	bruins:1	leafs:1	
+rec.sport.hockey	nhl:1	bruins:1	team:3	leafs:1	
+rec.sport.hockey	cup:1	bruins:1	team:4	leafs:4	
+rec.sport.hockey	game:2	baseball:1	players:1	
+rec.sport.hockey	players:2	
+rec.sport.hockey	leafs:3	playoffs:1	
+rec.sport.hockey	hockey:2	
+rec.sport.hockey	cup:2	nhl:1	team:2	
+rec.sport.hockey	cup:1	
+rec.sport.hockey	game:2	
+rec.sport.hockey	cup:2	hockey:1	team:1	
+rec.sport.hockey	cup:3	hockey:1	team:1	
+rec.sport.hockey	hockey:2	nhl:7	team:1	game:1	players:3	
+rec.sport.hockey	cup:1	hockey:2	nhl:1	
+rec.sport.hockey	bruins:1	players:3	
+rec.sport.hockey	nhl:1	
+rec.sport.hockey	hockey:1	nhl:3	players:2	
+rec.sport.hockey	cup:1	bruins:2	game:1	team:3	playoff:1	playoffs:1	
+rec.sport.hockey	hockey:2	
+rec.sport.hockey	cup:3	hockey:1	team:2	
+rec.sport.hockey	players:1	
+rec.sport.hockey	hockey:2	nhl:5	game:1	players:1	
+rec.sport.hockey	hockey:2	braves:1	
+rec.sport.hockey	hockey:3	nhl:3	team:1	game:1	leafs:1	players:2	
+rec.sport.hockey	hockey:5	game:1	
+rec.sport.hockey	hockey:4	nhl:9	team:1	game:1	players:2	
+rec.sport.hockey	team:2	approved:1	players:1	
+rec.sport.hockey	cup:1	hockey:7	game:1	baseball:1	
+rec.sport.hockey	hockey:2	team:1	graphics:1	
+rec.sport.hockey	hockey:5	bus:1	game:1	
+rec.sport.hockey	cup:2	bruins:2	game:1	team:2	playoff:1	
+rec.sport.hockey	hockey:1	team:1	game:7	ford:2	
+rec.sport.hockey	hockey:4	nhl:8	team:1	game:1	players:3	
+rec.sport.hockey	nhl:1	game:1	team:3	players:1	playoffs:1	
+rec.sport.hockey	nhl:3	game:9	team:5	leafs:14	playoffs:1	keith:1	
+rec.sport.hockey	hockey:1	nhl:1	game:2	team:2	leafs:1	players:2	
+rec.sport.hockey	cup:1	team:1	players:3	
+rec.sport.hockey	bruins:1	game:1	team:3	leafs:1	players:1	
+rec.sport.hockey	car:1	hockey:3	nhl:3	bruins:1	game:2	team:3	key:1	
+rec.sport.hockey	hockey:1	nhl:2	team:2	leafs:3	players:1	
+rec.sport.hockey	cup:6	
+rec.sport.hockey	hockey:5	nhl:7	team:1	game:3	players:4	
+rec.sport.hockey	hockey:2	
+rec.sport.hockey	hockey:7	nhl:8	team:2	game:1	baseball:2	players:9	
+rec.sport.hockey	nhl:1	players:1	
+rec.sport.hockey	hockey:1	nhl:3	
+rec.sport.hockey	nhl:1	
+rec.sport.hockey	hockey:1	game:1	players:1	
+rec.sport.hockey	nhl:2	playoff:1	
+rec.sport.hockey	hockey:4	3.1:1	mac:1	bruins:4	rec.sport.hockey:1	team:9	sale:1	leafs:2	riding:1	
+rec.sport.hockey	hockey:1	team:1	
+rec.sport.hockey	playoff:2	
+rec.sport.hockey	nhl:2	team:1	game:1	
+rec.sport.hockey	hockey:1	nhl:1	team:1	playoff:1	players:1	
+rec.sport.hockey	game:1	
+rec.sport.hockey	game:4	
+rec.sport.hockey	team:2	leafs:1	baseball:1	keith:2	
+rec.sport.hockey	hockey:4	team:5	game:7	
+rec.sport.hockey	team:1	game:1	players:1	playoffs:1	
+rec.sport.hockey	nhl:1	
+rec.sport.hockey	hockey:1	jays:3	nhl:1	baseball:3	players:5	
+rec.sport.hockey	nhl:1	game:2	players:3	
+rec.sport.hockey	jays:3	nhl:1	baseball:1	players:1	
+rec.sport.hockey	space:1	
+rec.sport.hockey	hockey:1	team:2	game:3	players:1	keith:2	
+rec.sport.hockey	team:1	
+rec.sport.hockey	cup:3	hockey:1	team:1	keith:2	
+rec.sport.hockey	hockey:1	team:2	
+rec.sport.hockey	braves:1	
+rec.sport.hockey	hockey:1	nhl:1	team:6	leafs:1	
+rec.sport.hockey	game:2	leafs:1	players:2	
+rec.sport.hockey	space:1	
+rec.sport.hockey	cup:2	hockey:1	game:1	team:2	playoffs:2	
+rec.sport.hockey	cup:3	hockey:4	nhl:8	team:3	game:2	players:9	
+rec.sport.hockey	cup:1	nhl:1	
+rec.sport.hockey	hockey:1	nhl:1	baseball:2	players:4	
+rec.sport.hockey	cup:2	playoff:1	playoffs:1	
+rec.sport.hockey	nhl:1	players:1	
+rec.sport.hockey	hockey:5	nhl:5	team:1	players:6	
+rec.sport.hockey	hockey:2	nhl:1	team:2	game:6	
+rec.sport.hockey	nhl:1	
+rec.sport.hockey	team:1	playoff:1	
+rec.sport.hockey	playoff:2	
+rec.sport.hockey	team:2	
+rec.sport.hockey	braves:1	team:1	
+rec.sport.hockey	nhl:1	
+sci.electronics	cars:1	
+sci.electronics	mac:1	
+sci.electronics	amp:2	electronics:1	
+sci.electronics	electronics:1	
+sci.electronics	chip:1	bus:6	
+sci.electronics	circuit:1	
+sci.electronics	chip:3	bus:1	circuit:1	controller:3	
+sci.electronics	chip:1	god:1	
+sci.electronics	chip:2	
+sci.electronics	circuit:1	
+sci.electronics	bus:15	isa:2	card:1	motherboard:1	
+sci.electronics	circuit:1	
+sci.electronics	circuit:1	circuits:1	
+sci.electronics	car:1	sci.electronics:1	cars:1	
+sci.electronics	car:2	gun:2	guns:1	
+sci.electronics	chip:4	resistor:1	electronics:1	
+sci.electronics	circuits:1	
+sci.electronics	circuit:1	electronics:1	
+sci.electronics	circuit:1	
+sci.electronics	voltage:1	circuit:1	electronics:2	
+sci.electronics	circuit:1	
+sci.electronics	chip:1	
+sci.electronics	voltage:1	electronics:2	
+sci.electronics	circuit:1	electronics:1	
+sci.electronics	images:1	keith:1	electronics:1	
+sci.electronics	car:1	
+sci.electronics	car:1	
+sci.electronics	guns:1	
+sci.electronics	game:1	space:1	players:1	controller:1	
+sci.electronics	resistor:4	
+sci.electronics	controller:1	
+sci.electronics	circuit:4	amp:2	circuits:1	
+sci.electronics	sci.electronics:1	
+sci.electronics	voltage:1	
+sci.electronics	game:1	card:1	circuit:1	amp:1	
+sci.electronics	electronics:1	
+sci.electronics	cup:1	gun:1	
+sci.electronics	chip:1	bus:1	
+sci.electronics	3d:3	inqmind.bison.mb.ca:2	
+sci.electronics	game:1	
+sci.electronics	sci.electronics:1	circuit:1	
+sci.electronics	car:1	voltage:1	card:1	
+sci.electronics	voltage:1	
+sci.electronics	space:1	
+sci.electronics	amp:4	electronics:1	
+sci.electronics	car:5	gun:2	guns:1	
+sci.electronics	sci.electronics:1	
+sci.electronics	car:1	cars:1	
+sci.electronics	amp:2	
+sci.electronics	sci.electronics:1	key:1	
+sci.electronics	chip:3	voltage:1	
+sci.electronics	cars:1	
+sci.electronics	voltage:7	circuit:2	amp:1	
+sci.electronics	isa:1	
+sci.electronics	amp:4	electronics:2	
+sci.electronics	cars:1	
+sci.electronics	electronics:1	
+sci.electronics	car:1	chip:1	cars:1	
+sci.electronics	car:2	gun:1	cars:1	
+sci.electronics	chip:1	
+sci.electronics	sale:2	shipping:1	keith:3	
+sci.electronics	circuit:2	
+sci.electronics	voltage:1	circuit:2	
+sci.electronics	car:1	voltage:1	circuit:1	
+sci.electronics	voltage:1	
+sci.electronics	electronics:1	
+sci.electronics	car:2	gun:1	circuit:1	
+sci.electronics	car:1	voltage:1	circuit:1	
+sci.electronics	circuit:1	
+sci.electronics	voltage:2	card:1	circuit:1	circuits:2	
+sci.electronics	moon:1	space:1	
+sci.electronics	gun:1	
+sci.electronics	shipping:1	
+sci.electronics	card:3	
+sci.electronics	car:2	gun:1	circuit:1	key:1	
+sci.electronics	circuit:1	
+sci.electronics	car:1	circuit:3	
+sci.electronics	resistor:1	sci.electronics:1	
+talk.politics.guns	gun:1	
+talk.politics.guns	firearms:8	gun:12	fbi:1	guns:8	baseball:1	
+talk.politics.guns	firearms:1	motif:1	gun:6	
+talk.politics.guns	condition:1	firearms:17	offer:1	disease:4	gun:33	doctor:1	guns:10	medical:3	medicine:2	
+talk.politics.guns	gun:1	waco:4	atf:5	
+talk.politics.guns	gun:1	
+talk.politics.guns	gun:3	guns:1	
+talk.politics.guns	waco:1	
+talk.politics.guns	gun:2	
+talk.politics.guns	gun:1	waco:1	
+talk.politics.guns	talk.politics.guns:1	
+talk.politics.guns	firearms:1	gun:1	atf:4	
+talk.politics.guns	gun:4	fbi:1	batf:1	
+talk.politics.guns	waco:1	
+talk.politics.guns	dos:1	
+talk.politics.guns	gun:1	
+talk.politics.guns	gun:1	
+talk.politics.guns	firearms:1	game:1	gun:8	guns:1	
+talk.politics.guns	fbi:1	guns:1	
+talk.politics.guns	gun:2	waco:4	atf:3	
+talk.politics.guns	gun:3	
+talk.politics.guns	gun:2	guns:6	
+talk.politics.guns	firearms:1	offer:1	gun:3	
+talk.politics.guns	launch:1	gun:3	guns:1	
+talk.politics.guns	gun:10	guns:5	baseball:3	
+talk.politics.guns	firearms:1	gun:4	guns:4	batf:1	
+talk.politics.guns	gun:2	guns:1	baseball:1	
+talk.politics.guns	gun:4	guns:10	
+talk.politics.guns	gun:1	fbi:1	baseball:1	
+talk.politics.guns	gun:2	
+talk.politics.guns	game:2	guns:1	
+talk.politics.guns	gun:1	
+talk.politics.guns	waco:1	
+talk.politics.guns	firearms:1	gun:2	sale:1	
+talk.politics.guns	electronics:1	
+talk.politics.guns	gun:1	
+talk.politics.guns	ranch:1	gun:2	waco:2	
+talk.politics.guns	gun:2	window:1	
+talk.politics.guns	gun:2	
+talk.politics.guns	launch:1	gun:2	riding:1	dod:1	
+talk.politics.guns	gun:1	dod:1	electronics:1	
+talk.politics.guns	gun:4	waco:1	ford:1	
+talk.politics.guns	firearms:2	
+talk.politics.guns	gun:1	atf:1	batf:1	
+talk.politics.guns	image:1	
+talk.politics.guns	gun:6	
+talk.politics.guns	gun:2	fbi:1	baseball:1	
+talk.politics.guns	car:1	gun:2	medical:1	window:1	electronics:2	
+talk.politics.guns	god:1	image:1	
+talk.politics.guns	gun:1	
+talk.politics.guns	gun:6	guns:2	baseball:3	
+talk.politics.guns	condition:1	gun:1	
+talk.politics.guns	gun:2	guns:1	waco:1	
+talk.politics.guns	gun:1	waco:1	
+talk.politics.guns	gun:1	
+talk.politics.guns	gun:4	guns:1	baseball:3	
+talk.politics.guns	motif:1	medicine:2	
+talk.politics.guns	motif:1	guns:1	
+talk.politics.guns	gun:1	
+talk.politics.guns	gun:2	guns:1	
+talk.politics.guns	gun:1	
+talk.politics.guns	gun:6	
+talk.politics.guns	firearms:1	gun:5	guns:1	
+talk.politics.guns	gun:2	
+talk.politics.guns	firearms:1	gun:7	guns:4	
+sci.electronics	chip:2	circuit:2	zoo.toronto.edu:2	
+talk.politics.guns	car:1	gun:2	guns:1	cars:1	card:1	
+talk.politics.guns	firearms:1	team:1	gun:8	guns:1	keith:1	
+talk.politics.guns	firearms:3	gun:1	
+talk.politics.guns	launch:1	gun:3	guns:8	card:1	
+talk.politics.guns	car:1	firearms:1	gun:2	guns:1	card:1	batf:1	
+talk.politics.guns	gun:1	card:1	batf:1	
+talk.politics.guns	god:1	gun:1	fbi:1	card:1	
+talk.politics.guns	firearms:4	gun:2	
+talk.politics.guns	gun:5	guns:4	
+talk.politics.guns	nsa:1	guns:1	
+talk.politics.guns	car:1	gun:4	guns:2	card:1	
+talk.politics.guns	firearms:1	gun:2	card:1	batf:1	
+talk.politics.guns	guns:1	
+talk.politics.guns	game:1	guns:1	
+talk.politics.guns	game:1	gun:1	
+talk.politics.guns	car:1	christian:1	firearms:1	gun:7	guns:3	baseball:1	dod:1	card:1	
+talk.politics.guns	gun:2	dod:1	
+talk.politics.guns	firearms:1	windows:1	window:1	
+talk.politics.guns	firearms:5	gun:1	key:1	
+talk.politics.guns	firearms:3	gun:1	
+talk.politics.guns	guns:1	
+talk.politics.guns	firearms:4	guns:1	
+talk.politics.guns	gun:1	sale:2	
+talk.politics.guns	gun:1	guns:1	
+talk.politics.guns	offer:1	medical:1	
+talk.politics.guns	firearms:1	guns:1	
+talk.politics.guns	car:2	gun:5	sale:1	guns:3	baseball:1	card:1	
+talk.politics.guns	waco:2	
+talk.politics.guns	firearms:5	gun:10	controller:1	
+talk.politics.guns	car:1	gun:2	approved:1	guns:1	cars:1	card:1	
+talk.politics.guns	firearms:3	gun:2	guns:3	
+talk.politics.guns	firearms:4	gun:2	sale:1	guns:2	batf:1	
+sci.med	condition:1	offer:1	disease:7	approved:1	
+sci.med	diet:1	
+sci.med	disease:1	doctor:1	
+sci.med	disease:1	medicine:1	
+sci.med	medicine:1	
+sci.med	medicine:2	
+sci.med	doctor:1	
+sci.med	condition:1	
+sci.med	diet:1	doctor:1	medicine:1	
+sci.med	diet:1	disease:3	
+sci.med	doctor:1	
+sci.med	condition:1	
+sci.med	diet:2	condition:1	keith:1	
+sci.med	doctor:1	electronics:2	
+sci.med	diet:1	condition:1	
+sci.med	disease:1	sci.med:1	
+sci.med	medical:1	
+sci.med	medical:1	
+sci.med	dod:1	
+sci.med	medicine:1	
+sci.med	disease:4	
+sci.med	approved:1	
+sci.med	diet:1	disease:1	
+sci.med	cs.pitt.edu:2	geb:3	
+sci.med	cs.pitt.edu:2	geb:3	
+sci.med	cs.pitt.edu:2	geb:3	
+sci.med	cs.pitt.edu:2	geb:3	ford:1	
+sci.med	cs.pitt.edu:2	geb:3	
+sci.med	cs.pitt.edu:2	geb:3	
+sci.med	cs.pitt.edu:2	disease:1	doctor:1	
+sci.med	cs.pitt.edu:2	disease:5	medical:1	medicine:1	
+sci.med	cs.pitt.edu:2	medical:2	medicine:1	
+sci.med	cs.pitt.edu:2	disease:2	
+sci.med	cs.pitt.edu:2	
+sci.med	cs.pitt.edu:2	disease:1	sci.med:1	
+sci.med	cs.pitt.edu:2	geb:3	ford:1	
+sci.med	cs.pitt.edu:2	doctor:1	geb:3	
+sci.med	cs.pitt.edu:2	disease:1	geb:3	medicine:1	
+sci.med	cs.pitt.edu:2	disease:1	geb:3	
+sci.med	cs.pitt.edu:2	disease:1	medical:2	geb:3	
+sci.med	diet:1	condition:1	
+sci.med	diet:1	cs.pitt.edu:2	geb:3	
+sci.med	cs.pitt.edu:3	pitt.uucp:1	geb:4	
+sci.med	cs.pitt.edu:3	doctor:1	pitt.uucp:1	geb:4	
+sci.med	cs.pitt.edu:2	geb:3	
+sci.med	cs.pitt.edu:2	disease:1	geb:3	medicine:1	
+sci.med	cs.pitt.edu:2	geb:3	
+sci.med	cs.pitt.edu:2	geb:3	
+sci.med	cs.pitt.edu:2	geb:3	
+sci.med	cs.pitt.edu:2	geb:3	
+sci.med	cs.pitt.edu:2	disease:2	geb:3	
+sci.med	cs.pitt.edu:2	disease:1	doctor:2	medical:1	geb:3	medicine:1	
+sci.med	cs.pitt.edu:2	geb:3	
+sci.med	cs.pitt.edu:2	disease:3	geb:3	
+sci.med	cs.pitt.edu:2	doctor:1	geb:3	
+sci.med	cs.pitt.edu:2	geb:3	
+sci.med	cs.pitt.edu:2	geb:3	
+sci.med	cs.pitt.edu:2	geb:3	
+sci.med	cs.pitt.edu:2	geb:3	
+sci.med	condition:1	disease:1	medical:1	
+sci.med	cs.pitt.edu:2	geb:3	
+sci.med	cs.pitt.edu:2	geb:3	
+sci.med	cs.pitt.edu:2	medical:1	geb:3	
+sci.med	cs.pitt.edu:2	doctor:1	medical:1	geb:3	
+sci.med	cs.pitt.edu:2	geb:3	
+sci.med	cs.pitt.edu:2	geb:3	
+sci.med	diet:5	cs.pitt.edu:2	geb:3	
+sci.med	cs.pitt.edu:2	ama:1	geb:3	
+sci.med	condition:1	cs.pitt.edu:2	disease:1	medical:1	geb:3	
+sci.med	cs.pitt.edu:2	geb:3	
+sci.med	cs.pitt.edu:2	geb:3	
+sci.med	cs.pitt.edu:2	doctor:1	medical:2	geb:3	medicine:1	
+sci.med	condition:1	cs.pitt.edu:2	medical:2	geb:3	
+sci.med	cs.pitt.edu:2	geb:3	
+sci.med	cs.pitt.edu:1	pitt.uucp:1	geb:1	
+sci.med	condition:1	
+sci.med	cs.pitt.edu:1	pitt.uucp:1	geb:1	
+sci.med	cs.pitt.edu:2	pitt.uucp:2	geb:2	
+sci.med	cs.pitt.edu:1	pitt.uucp:1	geb:1	
+sci.med	moon:1	diet:3	disease:1	doctor:2	medical:6	apple:4	medicine:2	
+sci.med	cs.pitt.edu:1	disease:1	pitt.uucp:1	geb:1	
+sci.med	cs.pitt.edu:1	disease:1	doctor:3	medical:1	pitt.uucp:1	geb:2	medicine:3	
+comp.sys.ibm.pc.hardware	bus:3	card:2	
+sci.med	moon:1	bus:1	windows:9	mac:15	israel:2	space:2	dos:2	microsoft:1	shipping:15	medical:1	window:1	apple:6	sci.med:1	graphics:4	x11r5:1	gif:1	key:16	expo.lcs.mit.edu:1	
+sci.med	3.1:2	mac:7	windows:15	space:1	xterm:1	dos:7	shipping:1	medical:1	window:5	card:3	
+sci.med	medicine:2	
+sci.med	apple:2	key:1	gif:1	
+sci.med	condition:1	ms:1	windows:1	offer:1	space:1	doctor:6	medical:1	window:1	apple:4	sci.med:2	key:2	gif:12	
+sci.med	window:1	sci.med:1	
+sci.med	cs.pitt.edu:1	medical:4	pitt.uucp:1	geb:1	
+sci.med	diet:1	
+sci.med	cs.pitt.edu:1	disease:3	pitt.uucp:1	geb:1	
+comp.sys.ibm.pc.hardware	ford:1	
+comp.sys.ibm.pc.hardware	3.1:1	windows:4	
+comp.sys.ibm.pc.hardware	bios:1	key:3	
+comp.sys.ibm.pc.hardware	window:1	isa:1	ford:1	
+comp.sys.ibm.pc.hardware	image:1	
+comp.sys.ibm.pc.hardware	windows:3	microsoft:1	scsi:1	
+comp.sys.ibm.pc.hardware	bus:1	windows:1	space:1	card:5	graphics:1	
+comp.sys.ibm.pc.hardware	bus:1	motherboard:1	
+comp.sys.ibm.pc.hardware	chip:1	shipping:1	
+comp.sys.ibm.pc.hardware	offer:1	card:3	key:1	
+comp.sys.ibm.pc.hardware	dos:3	microsoft:1	
+comp.sys.ibm.pc.hardware	bus:1	windows:1	space:1	card:5	graphics:1	
+comp.sys.ibm.pc.hardware	condition:1	sale:3	shipping:1	
+comp.sys.ibm.pc.hardware	ford:1	
+comp.sys.ibm.pc.hardware	ford:1	
+comp.sys.ibm.pc.hardware	chip:1	bus:7	ms:2	windows:1	space:1	bios:68	microsoft:1	dos:7	comp.sys.ibm.pc.hardware:2	scsi:12	card:47	keith:4	controller:61	
+comp.sys.ibm.pc.hardware	bus:1	ide:1	card:3	graphics:1	controller:2	
+comp.sys.ibm.pc.hardware	windows:3	dos:9	scsi:3	schneider:1	card:1	
+comp.sys.ibm.pc.hardware	bus:2	card:3	
+comp.sys.ibm.pc.hardware	scsi:2	isa:2	controller:1	motherboard:1	
+comp.sys.ibm.pc.hardware	bus:1	motherboard:1	
+comp.sys.ibm.pc.hardware	chip:4	bus:2	motherboard:1	
+comp.sys.ibm.pc.hardware	motherboard:2	
+comp.sys.ibm.pc.hardware	bus:1	isa:1	card:1	
+comp.sys.ibm.pc.hardware	god:1	
+comp.sys.ibm.pc.hardware	mac:1	apple:1	
+comp.sys.ibm.pc.hardware	card:1	
+comp.sys.ibm.pc.hardware	bus:2	
+comp.sys.ibm.pc.hardware	card:1	
+comp.sys.ibm.pc.hardware	chip:2	
+comp.sys.ibm.pc.hardware	dos:1	ide:1	
+comp.sys.ibm.pc.hardware	bus:1	3.1:1	windows:7	card:4	motherboard:1	
+comp.sys.ibm.pc.hardware	ide:1	card:4	lc:1	motherboard:3	
+comp.sys.ibm.pc.hardware	scsi:4	isa:2	card:2	controller:1	motherboard:1	
+comp.sys.ibm.pc.hardware	windows:4	microsoft:1	scsi:1	
+comp.sys.ibm.pc.hardware	chip:1	bios:1	
+comp.sys.ibm.pc.hardware	bus:1	dod:1	motherboard:1	
+comp.sys.ibm.pc.hardware	offer:1	card:4	key:1	
+comp.sys.ibm.pc.hardware	3.1:1	bus:2	ms:1	windows:1	offer:1	bios:1	dos:1	ide:1	card:2	
+comp.sys.ibm.pc.hardware	isa:1	
+comp.sys.ibm.pc.hardware	3.1:2	bus:1	vlb:6	windows:1	offer:1	card:3	
+comp.sys.ibm.pc.hardware	bus:1	vlb:1	bios:1	motherboard:2	
+comp.sys.ibm.pc.hardware	3.1:2	windows:2	isa:1	card:1	
+comp.sys.ibm.pc.hardware	sale:1	
+comp.sys.ibm.pc.hardware	bus:2	scsi:1	card:2	graphics:1	controller:1	ford:1	
+comp.sys.ibm.pc.hardware	bios:2	
+comp.sys.ibm.pc.hardware	vlb:3	
+comp.sys.ibm.pc.hardware	3.1:1	windows:4	medicine:1	
+comp.sys.ibm.pc.hardware	3.1:1	dos:3	scsi:5	ide:1	controller:1	
+comp.sys.ibm.pc.hardware	dos:1	ide:1	motherboard:1	
+comp.sys.ibm.pc.hardware	ide:2	card:2	controller:2	
+comp.sys.ibm.pc.hardware	dos:1	
+comp.sys.ibm.pc.hardware	dos:2	keith:1	
+comp.sys.ibm.pc.hardware	keith:2	
+comp.sys.ibm.pc.hardware	car:1	
+comp.sys.ibm.pc.hardware	chip:4	card:1	
+comp.sys.ibm.pc.hardware	windows:3	bios:1	dos:2	
+comp.sys.ibm.pc.hardware	bus:3	
+comp.sys.ibm.pc.hardware	chip:1	bus:4	
+comp.sys.ibm.pc.hardware	scsi:1	controller:1	
+comp.sys.ibm.pc.hardware	bus:2	motherboard:2	
+comp.sys.ibm.pc.hardware	dod:1	
+comp.sys.ibm.pc.hardware	chip:1	card:3	
+comp.sys.ibm.pc.hardware	chip:1	
+comp.sys.ibm.pc.hardware	bus:1	ide:4	controller:5	
+sci.space	space:4	
+sci.space	moon:5	engine:1	space:4	orbit:9	
+sci.space	shuttle:14	launch:7	image:1	team:1	space:26	orbit:5	sci.astro:1	sci.space:1	medical:1	spacecraft:1	images:4	medicine:1	
+sci.space	moon:1	launch:1	shuttle:2	mac:1	space:72	spacecraft:2	keith:1	
+sci.space	condition:1	launch:1	shuttle:9	image:2	offer:1	space:20	orbit:1	medical:3	
+sci.space	launch:1	image:2	team:1	offer:1	space:12	orbit:4	sci.astro:1	sci.space:1	clipper:2	spacecraft:3	images:1	
+sci.space	moon:1	launch:4	shuttle:11	image:2	space:32	orbit:3	sci.astro:4	sci.space:3	window:1	spacecraft:4	images:3	zoo.toronto.edu:2	
+sci.space	launch:3	shuttle:8	space:42	sci.astro:8	sci.space:6	images:1	zoo.toronto.edu:1	
+sci.space	moon:5	ms:1	launch:1	shuttle:4	image:5	mac:1	offer:1	space:28	orbit:5	dos:1	sci.astro:1	window:2	images:17	graphics:1	x11:1	gif:7	
+sci.space	moon:6	engine:2	launch:1	shuttle:3	offer:1	space:44	orbit:3	sale:1	shipping:3	clipper:2	spacecraft:9	card:1	key:1	
+sci.space	engine:2	launch:7	shuttle:19	space:10	orbit:5	
+sci.space	moon:28	bus:2	ms:1	launch:3	image:4	team:1	space:27	orbit:24	clayton:1	spacecraft:11	images:13	
+sci.space	shuttle:3	launch:5	israel:1	space:5	orbit:3	
+sci.space	god:1	space:3	sci.space:1	sci.astro:3	
+sci.space	launch:2	shuttle:4	image:1	offer:1	space:33	images:1	
+sci.space	moon:1	shuttle:5	launch:11	team:1	space:16	orbit:10	spacecraft:3	images:3	key:1	
+sci.space	ms:1	image:1	space:4	orbit:1	shipping:1	comp.graphics:1	3d:1	spacecraft:2	images:1	
+sci.space	nsa:1	engine:3	shuttle:12	launch:5	image:3	space:41	orbit:6	sci.space:1	sci.astro:1	clipper:1	voltage:1	spacecraft:5	dod:2	graphics:1	key:7	gif:1	
+comp.sys.ibm.pc.hardware	windows:1	dos:2	
+comp.sys.ibm.pc.hardware	bus:4	isa:4	motherboard:2	
+comp.sys.ibm.pc.hardware	3.1:2	windows:2	space:1	dos:5	window:7	card:1	
+comp.sys.ibm.pc.hardware	windows:1	space:2	bios:2	isa:3	motherboard:1	
+comp.sys.ibm.pc.hardware	ms:2	bios:3	dos:1	controller:1	
+comp.sys.ibm.pc.hardware	bus:8	vlb:3	card:4	controller:2	
+comp.sys.ibm.pc.hardware	dos:3	
+comp.sys.ibm.pc.hardware	chip:1	bus:1	mac:7	scsi:36	window:1	ide:5	apple:1	card:2	controller:4	electronics:1	
+comp.sys.ibm.pc.hardware	motherboard:1	
+comp.sys.ibm.pc.hardware	bus:2	card:3	motherboard:1	
+comp.sys.ibm.pc.hardware	bus:3	vlb:5	mac:1	isa:1	card:4	
+comp.sys.ibm.pc.hardware	windows:4	isa:9	
+comp.sys.ibm.pc.hardware	controller:1	
+comp.sys.ibm.pc.hardware	chip:1	bios:1	controller:5	
+comp.sys.ibm.pc.hardware	bios:4	card:1	keith:1	controller:2	
+comp.sys.ibm.pc.hardware	ms:1	bios:1	dos:2	
+sci.space	launch:2	space:2	orbit:1	zoo.toronto.edu:2	
+comp.sys.ibm.pc.hardware	bus:5	
+comp.sys.ibm.pc.hardware	car:1	
+sci.space	space:1	prb:2	zoo.toronto.edu:3	
+sci.space	orbit:2	
+comp.sys.ibm.pc.hardware	bus:1	shipping:1	isa:1	controller:6	motherboard:2	
+sci.space	mac:1	space:2	
+comp.sys.ibm.pc.hardware	ms:1	dos:1	scsi:1	controller:3	key:1	
+sci.space	space:1	prb:1	
+comp.sys.ibm.pc.hardware	windows:1	dos:2	guns:1	card:1	
+sci.space	space:1	
+sci.space	orbit:3	inqmind.bison.mb.ca:1	
+comp.sys.ibm.pc.hardware	bus:1	vlb:1	ide:3	card:1	controller:2	motherboard:1	
+sci.space	space:1	
+comp.sys.ibm.pc.hardware	vlb:1	windows:2	scsi:2	isa:2	controller:1	
+sci.space	space:7	
+sci.space	space:3	prb:1	
+comp.sys.ibm.pc.hardware	dos:1	card:1	
+sci.space	engine:2	space:3	
+sci.space	space:1	orbit:3	inqmind.bison.mb.ca:3	
+comp.sys.ibm.pc.hardware	windows:1	
+sci.space	orbit:4	
+comp.sys.ibm.pc.hardware	chip:1	bios:1	motherboard:1	
+sci.space	space:5	
+sci.space	space:2	
+sci.space	moon:5	orbit:1	
+sci.space	shuttle:1	zoo.toronto.edu:3	
+sci.space	ride:1	space:2	prb:1	dod:1	
+sci.space	space:1	
+sci.space	orbit:1	zoo.toronto.edu:3	
+sci.space	space:2	
+sci.space	space:3	
+sci.space	space:3	
+sci.space	space:1	
+sci.space	orbit:2	
+sci.space	sci.space:1	graphics:1	
+sci.space	moon:1	launch:2	shuttle:5	space:9	orbit:2	spacecraft:3	
+sci.space	graphics:1	
+sci.space	space:2	
+sci.space	launch:1	space:1	orbit:1	
+sci.space	space:1	
+sci.space	moon:1	shuttle:2	space:5	
+sci.space	keith:1	
+sci.space	space:1	medicine:1	
+sci.space	moon:3	orbit:1	
+sci.space	space:1	
+sci.space	launch:1	space:1	
+sci.space	orbit:4	
+sci.space	space:4	
+sci.space	god:1	space:3	
+sci.space	orbit:1	
+sci.space	space:1	
+sci.space	moon:7	shuttle:1	space:1	orbit:1	
+sci.space	space:1	prb:1	
+sci.space	launch:3	space:4	orbit:1	spacecraft:1	
+sci.space	shuttle:1	launch:2	space:1	
+sci.space	launch:2	space:6	orbit:1	
+sci.space	ride:1	space:3	prb:1	dod:1	
+sci.space	space:2	
+sci.space	image:1	orbit:3	prb:1	images:1	
+sci.space	prb:1	
+sci.space	space:2	orbit:3	inqmind.bison.mb.ca:2	
+sci.space	medical:1	prb:1	
+sci.space	space:1	prb:1	
+sci.space	disease:1	space:2	sale:1	prb:1	
+sci.space	prb:1	
+sci.space	space:2	prb:1	
+sci.space	image:1	orbit:4	prb:1	
+sci.space	rutgers:1	
+sci.space	shuttle:1	team:2	space:10	sci.space:1	key:2	
+sci.space	space:2	prb:2	dod:1	
+sci.space	space:1	prb:1	
+sci.space	mac:1	space:2	
+sci.space	bus:1	launch:2	shuttle:2	game:1	team:2	space:7	orbit:2	
+sci.space	team:1	space:7	medicine:2	
+sci.space	space:1	prb:1	
+sci.space	space:1	prb:1	
+sci.space	space:1	prb:1	
+sci.space	car:1	shuttle:1	space:3	orbit:1	
+sci.space	cup:1	moon:1	engine:4	team:1	space:7	orbit:1	clipper:1	key:2	
+sci.space	god:1	space:1	prb:1	
+sci.space	prb:1	
+sci.space	space:1	
+sci.space	space:3	
+sci.space	shuttle:1	team:2	space:12	key:2	
+sci.space	prb:1	
+sci.space	launch:1	space:1	sci.space:1	
+sci.space	moon:1	space:1	
+sci.space	car:1	moon:1	god:1	mac:1	space:7	
+sci.space	space:1	
+sci.space	image:1	orbit:2	
+comp.windows.x	comp.windows.x:1	game:1	space:3	shipping:2	window:2	apple:4	x11r5:3	widget:1	
+comp.windows.x	game:1	space:1	apple:1	
+comp.windows.x	bus:3	vlb:1	team:4	space:2	motif:4	xterm:4	isa:1	card:7	graphics:2	x11r5:4	x11:5	key:2	
+comp.windows.x	comp.windows.x:4	3.1:1	condition:1	windows:2	offer:1	space:7	motif:12	sale:1	window:23	3d:1	x11r5:3	comp.windows.x.motif:1	widget:86	x11:23	key:1	expo.lcs.mit.edu:2	
+comp.windows.x	motif:1	
+comp.windows.x	game:1	
+comp.windows.x	widget:2	
+comp.windows.x	motif:1	window:1	gif:7	
+comp.windows.x	comp.windows.x:1	team:1	
+comp.windows.x	x11r5:3	
+comp.windows.x	comp.windows.x:1	game:1	space:3	shipping:2	window:2	apple:4	x11r5:3	widget:1	
+comp.windows.x	game:1	space:1	apple:2	
+comp.windows.x	rutgers:1	
+comp.windows.x	motif:3	xpert:1	widget:1	expo.lcs.mit.edu:1	
+comp.windows.x	x11r5:2	x11:1	
+comp.windows.x	x11r5:3	x11:1	
+comp.windows.x	motif:5	x11r5:1	widget:1	
+comp.windows.x	microsoft:1	
+comp.windows.x	motif:2	xpert:1	expo.lcs.mit.edu:1	
+comp.windows.x	widget:1	
+comp.windows.x	christian:2	x11:1	
+comp.windows.x	christian:1	x11:1	
+comp.windows.x	car:1	comp.windows.x:2	ms:2	image:4	windows:4	mac:2	offer:1	motif:27	xterm:5	window:21	3d:2	apple:1	images:1	graphics:2	x11r5:6	widget:20	x11:14	expo.lcs.mit.edu:1	
+comp.windows.x	window:6	
+comp.windows.x	comp.windows.x:1	image:4	windows:7	team:1	offer:1	space:1	motif:14	window:73	graphics:7	x11:7	widget:35	expo.lcs.mit.edu:5	
+comp.windows.x	widget:1	
+comp.windows.x	x11:1	
+comp.windows.x	window:2	graphics:1	widget:1	
+comp.windows.x	comp.windows.x:7	image:2	windows:4	mac:1	team:1	offer:1	motif:48	dos:1	xterm:11	window:72	3d:6	images:2	graphics:5	x11r5:6	comp.windows.x.motif:2	xpert:5	x11:15	widget:21	key:2	gif:1	expo.lcs.mit.edu:4	tiff:1	
+comp.windows.x	comp.windows.x:1	image:12	windows:7	mac:1	offer:3	israel:1	space:4	motif:2	xterm:20	window:15	images:8	graphics:1	keith:2	x11r5:40	widget:7	x11:43	key:5	gif:4	expo.lcs.mit.edu:3	tiff:6	
+comp.windows.x	windows:2	
+comp.windows.x	space:2	x11:1	
+comp.windows.x	comp.windows.x:2	3.1:2	ms:1	image:4	windows:5	mac:8	offer:5	space:3	motif:47	xterm:5	dos:3	shipping:2	window:6	3d:3	images:1	graphics:9	keith:1	x11r5:19	widget:41	x11:22	key:1	tiff:1	expo.lcs.mit.edu:3	
+comp.windows.x	windows:1	space:1	
+comp.windows.x	x11:2	
+comp.windows.x	x11r5:2	
+comp.windows.x	cup:1	
+comp.windows.x	windows:2	window:2	
+comp.windows.x	windows:1	window:2	
+comp.windows.x	window:6	
+comp.windows.x	comp.windows.x:1	
+comp.windows.x	xterm:1	shipping:2	card:3	x11r5:4	
+comp.windows.x	medical:1	window:1	graphics:2	x11r5:1	widget:1	
+comp.windows.x	widget:3	key:3	
+comp.windows.x	comp.windows.x:1	ford:3	
+comp.windows.x	ama:1	window:5	dod:1	widget:1	
+comp.windows.x	windows:2	
+comp.windows.x	xterm:3	
+comp.windows.x	window:1	widget:3	
+comp.windows.x	image:1	
+comp.windows.x	motif:2	window:1	
+comp.windows.x	motif:3	
+comp.windows.x	space:1	x11r5:1	
+comp.windows.x	window:1	
+comp.windows.x	xterm:5	
+comp.windows.x	motif:1	
+comp.windows.x	xpert:1	widget:1	expo.lcs.mit.edu:1	
+comp.windows.x	comp.windows.x:1	x11r5:2	xpert:1	expo.lcs.mit.edu:1	
+comp.windows.x	window:5	x11:1	widget:1	
+comp.windows.x	comp.windows.x:5	image:1	windows:5	space:3	motif:5	xterm:23	window:12	x11r5:2	widget:4	x11:4	
+comp.windows.x	x11:1	
+comp.windows.x	image:2	motif:1	graphics:1	x11r5:1	widget:1	
+comp.windows.x	ms:9	windows:4	motif:10	window:4	x11:1	
+comp.windows.x	xpert:1	expo.lcs.mit.edu:1	
+comp.windows.x	god:1	expo.lcs.mit.edu:1	
+comp.windows.x	x11:1	
+comp.windows.x	windows:1	xterm:3	medical:1	window:1	x11r5:1	
+comp.windows.x	motif:2	window:2	
+comp.windows.x	motif:1	window:3	
+comp.windows.x	window:2	x11r5:2	
+comp.windows.x	window:1	graphics:2	
+comp.windows.x	motif:10	
+comp.windows.x	motif:3	
+comp.windows.x	motif:1	window:2	
+comp.windows.x	comp.windows.x:1	motif:1	window:4	
+comp.windows.x	medical:1	
+comp.windows.x	ms:1	windows:1	motif:11	widget:2	
+comp.windows.x	motif:8	3d:1	
+comp.windows.x	windows:1	window:6	x11r5:1	x11:1	
+comp.windows.x	god:1	dos:1	window:2	gif:3	
+comp.windows.x	x11r5:2	
+comp.windows.x	rutgers:1	
+comp.windows.x	window:3	
+comp.windows.x	motif:2	keith:1	
+comp.windows.x	xterm:1	window:1	
+comp.windows.x	space:1	graphics:1	
+comp.windows.x	windows:1	space:1	window:2	
+comp.windows.x	motif:8	widget:2	
+comp.windows.x	bus:1	card:2	graphics:1	x11r5:2	
+comp.windows.x	motif:1	
+comp.windows.x	ms:2	offer:1	xterm:1	dos:2	3d:1	xpert:1	expo.lcs.mit.edu:1	
+comp.windows.x	windows:4	mac:1	motif:1	xterm:1	window:2	
+comp.windows.x	widget:3	
+comp.windows.x	image:1	images:1	widget:4	
+misc.forsale	motorcycle:2	
+rec.motorcycles	cars:1	dod:1	
+misc.forsale	offer:1	sale:2	
+misc.forsale	rutgers:1	
+misc.forsale	offer:1	
+misc.forsale	offer:1	sale:2	card:1	
+misc.forsale	rutgers:1	offer:1	sale:2	
+misc.forsale	condition:1	offer:5	sale:1	shipping:5	motorcycle:1	amp:2	
+misc.forsale	offer:1	
+misc.forsale	condition:1	offer:1	sale:2	3d:2	graphics:1	
+misc.forsale	forsale:2	misc.forsale:1	
+misc.forsale	car:1	engine:1	offer:2	sale:1	
+misc.forsale	windows:2	sale:2	shipping:1	graphics:4	
+misc.forsale	forsale:1	windows:1	sale:1	
+misc.forsale	condition:1	forsale:2	shipping:1	
+misc.forsale	sale:1	
+misc.forsale	sale:2	bike:2	
+misc.forsale	condition:1	offer:1	sale:2	shipping:1	
+misc.forsale	sale:2	
+misc.forsale	car:2	condition:1	sale:2	shipping:1	medical:7	clipper:1	medicine:1	
+misc.forsale	condition:1	sale:1	guns:1	
+misc.forsale	shipping:1	ide:2	
+misc.forsale	misc.forsale:1	
+misc.forsale	game:1	
+misc.forsale	chip:1	motherboard:1	
+misc.forsale	car:1	misc.forsale:1	
+misc.forsale	sale:2	shipping:1	
+misc.forsale	condition:1	sale:2	controller:1	
+misc.forsale	sale:1	card:1	
+misc.forsale	mac:1	
+misc.forsale	sale:1	scsi:1	
+misc.forsale	offer:1	space:1	sale:2	ide:1	
+misc.forsale	sale:1	
+misc.forsale	window:1	
+misc.forsale	sale:1	shipping:2	keith:1	amp:1	electronics:1	
+misc.forsale	mac:4	space:2	sale:2	shipping:1	scsi:2	controller:1	
+misc.forsale	shipping:2	keith:1	amp:1	electronics:1	
+misc.forsale	sale:1	scsi:3	apple:3	card:1	graphics:1	
+misc.forsale	forsale:2	
+misc.forsale	condition:1	
+misc.forsale	forsale:1	offer:1	sale:1	motherboard:1	
+misc.forsale	shipping:2	keith:2	amp:1	electronics:1	
+misc.forsale	ms:1	offer:2	sale:2	dos:3	microsoft:1	graphics:1	
+misc.forsale	approved:1	
+misc.forsale	3.1:1	bus:2	ms:2	windows:1	game:1	bios:1	dos:1	ide:2	isa:1	card:1	graphics:1	controller:1	motherboard:2	key:1	
+misc.forsale	rutgers:1	sale:1	card:2	controller:2	
+misc.forsale	forsale:1	offer:1	
+misc.forsale	car:1	sale:3	electronics:1	
+misc.forsale	offer:1	sale:2	
+misc.forsale	space:1	
+misc.forsale	image:1	
+misc.forsale	condition:1	sale:2	
+misc.forsale	space:2	sale:2	shipping:1	
+misc.forsale	condition:1	sale:1	shipping:1	
+misc.forsale	sale:1	shipping:1	
+misc.forsale	image:1	sale:2	
+misc.forsale	condition:1	sale:1	
+misc.forsale	sale:2	shipping:1	
+misc.forsale	car:6	condition:7	windows:1	game:1	toyota:2	microsoft:2	sale:2	shipping:9	players:1	
+misc.forsale	sale:1	
+misc.forsale	shipping:8	
+misc.forsale	sale:1	shipping:1	
+misc.forsale	condition:1	offer:1	sale:1	shipping:1	
+misc.forsale	sale:1	
+misc.forsale	ms:1	offer:1	sale:1	dos:3	microsoft:2	
+misc.forsale	condition:1	game:2	offer:1	sale:2	baseball:3	electronics:1	
+misc.forsale	forsale:2	
+misc.forsale	condition:1	offer:3	sale:1	shipping:1	
+misc.forsale	sale:2	
+misc.forsale	condition:1	sale:1	
+misc.forsale	cup:1	game:2	
+misc.forsale	shipping:1	
+misc.forsale	hockey:1	forsale:1	game:1	offer:3	gun:1	sale:1	baseball:1	controller:1	
+misc.forsale	condition:2	forsale:2	mac:1	offer:2	dos:1	
+misc.forsale	sale:1	shipping:2	
+misc.forsale	mac:1	offer:3	sale:2	motherboard:1	
+misc.forsale	forsale:1	offer:1	sale:2	
+misc.forsale	rutgers:1	forsale:1	window:1	
+misc.forsale	card:1	
+misc.forsale	car:1	engine:1	
+misc.forsale	condition:1	forsale:1	space:1	sale:2	graphics:1	
+misc.forsale	ride:1	sale:1	
+misc.forsale	condition:1	offer:2	sale:2	shipping:1	
+misc.forsale	god:2	sale:1	
+misc.forsale	3.1:1	bus:1	microsoft:1	sale:2	shipping:1	isa:1	
+misc.forsale	sale:2	shipping:1	keith:3	
+misc.forsale	condition:1	sale:1	
+misc.forsale	scsi:1	controller:2	
+misc.forsale	sale:1	shipping:1	
+misc.forsale	dos:2	sale:2	window:1	
+misc.forsale	shipping:1	
+misc.forsale	ms:1	windows:1	offer:2	sale:2	dos:10	microsoft:1	
+misc.forsale	sale:1	shipping:1	
+misc.forsale	car:2	condition:1	
+misc.forsale	car:1	sale:3	window:1	bmw:1	
+misc.forsale	offer:1	sale:2	
+talk.politics.mideast	israel:1	
+talk.politics.mideast	armenian:2	armenia:1	turks:2	
+talk.politics.mideast	armenian:2	armenia:1	turks:2	
+talk.politics.mideast	christian:1	armenian:41	armenia:7	condition:2	turks:14	turkish:17	window:1	
+talk.politics.mideast	armenian:1	armenia:1	turks:1	turkish:2	
+talk.politics.mideast	fbi:3	israeli:2	
+talk.politics.mideast	god:2	israel:2	israeli:2	
+talk.politics.mideast	god:2	arab:2	launch:1	israel:2	israeli:1	
+talk.politics.mideast	arab:1	
+talk.politics.mideast	armenian:1	armenia:1	turks:1	turkish:1	gun:1	
+talk.politics.mideast	armenian:1	armenia:7	rutgers:1	space:1	turkish:2	
+talk.politics.mideast	arab:1	israel:3	arabs:3	israeli:4	
+talk.politics.mideast	israel:1	
+talk.politics.mideast	god:2	israeli:1	
+talk.politics.mideast	armenian:5	armenia:2	turks:1	turkish:1	
+talk.politics.mideast	armenian:2	armenia:1	turks:2	turkish:1	
+talk.politics.mideast	arab:1	israel:2	arabs:4	israeli:3	
+talk.politics.mideast	car:1	armenian:11	armenia:2	turks:1	team:1	turkish:2	guns:1	key:1	
+talk.politics.mideast	armenian:19	armenia:5	turks:3	turkish:5	
+talk.politics.mideast	armenian:5	armenia:2	turks:4	turkish:3	
+talk.politics.mideast	armenia:3	turks:2	turkish:1	
+talk.politics.mideast	arab:1	israel:2	arabs:4	israeli:2	
+talk.politics.mideast	arab:1	israel:4	arabs:3	israeli:9	
+talk.politics.mideast	armenian:7	armenia:1	turks:1	disease:1	turkish:1	
+talk.politics.mideast	armenian:9	armenia:7	turks:2	image:1	turkish:2	
+talk.politics.mideast	god:2	arab:2	launch:1	israel:6	israeli:1	
+talk.politics.mideast	arab:1	
+talk.politics.mideast	israel:1	arabs:1	israeli:3	
+talk.politics.mideast	god:2	arab:2	israel:5	israeli:2	
+talk.politics.mideast	arab:1	israel:7	arabs:3	israeli:9	
+talk.politics.mideast	armenian:4	turkish:14	
+talk.politics.mideast	car:4	armenian:5	bus:7	armenia:7	turkish:2	window:2	riding:1	cars:2	
+talk.politics.mideast	god:2	arab:1	israel:5	israeli:3	
+talk.politics.mideast	arab:1	space:1	israel:11	arabs:3	israeli:11	
+talk.politics.mideast	armenian:1	armenia:1	turks:1	israel:1	
+talk.politics.mideast	armenian:8	armenia:1	turks:2	turkish:2	
+talk.politics.mideast	armenian:2	armenia:1	turks:1	turkish:1	
+misc.forsale	condition:1	sale:2	shipping:2	
+misc.forsale	ms:2	windows:1	offer:1	microsoft:2	sale:2	shipping:1	apple:1	
+misc.forsale	ride:2	forsale:1	shipping:1	
+misc.forsale	offer:1	apple:3	card:3	controller:3	
+talk.politics.mideast	christian:1	bus:1	arab:1	israel:5	arabs:2	israeli:3	
+talk.politics.mideast	armenia:1	turks:3	turkish:3	
+talk.politics.mideast	arab:1	electronics:2	
+talk.politics.mideast	god:5	bus:9	armenian:15	armenia:7	condition:4	windows:4	turkish:2	doctor:4	medical:3	window:4	cars:1	motorcycle:1	
+talk.politics.mideast	arab:3	israel:1	arabs:2	
+talk.politics.mideast	arab:4	israel:1	arabs:4	israeli:4	
+talk.politics.mideast	arab:6	israel:6	fbi:3	israeli:8	
+talk.politics.mideast	israel:1	israeli:1	
+talk.politics.mideast	condition:1	game:1	israel:3	dos:1	israeli:6	
+talk.politics.mideast	arab:4	israel:4	arabs:5	israeli:1	
+talk.politics.mideast	arab:3	israel:1	arabs:2	
+talk.politics.mideast	israel:3	gun:1	israeli:8	morality:1	
+talk.politics.mideast	israel:1	
+talk.politics.mideast	israeli:2	
+talk.politics.mideast	israel:1	israeli:1	
+talk.politics.mideast	israel:1	gun:1	israeli:7	
+talk.politics.mideast	arab:1	arabs:3	israeli:4	
+talk.politics.mideast	arab:1	israeli:7	
+talk.politics.mideast	armenia:1	turks:4	arabs:1	turkish:6	
+talk.politics.mideast	arab:2	arabs:2	israeli:1	
+talk.politics.mideast	israel:1	
+talk.politics.mideast	car:2	arab:1	arabs:1	israeli:7	
+talk.politics.mideast	armenia:1	turks:1	turkish:6	
+talk.politics.mideast	bus:3	armenian:7	turks:1	turkish:11	
+talk.politics.mideast	armenia:1	turkish:3	
+talk.politics.mideast	god:1	israeli:1	
+talk.politics.mideast	israel:1	israeli:1	graphics:1	
+talk.politics.mideast	israel:1	arabs:3	israeli:2	
+talk.politics.mideast	arab:2	israel:1	arabs:1	israeli:1	
+talk.politics.mideast	arab:6	israel:3	arabs:3	
+talk.politics.mideast	israeli:1	
+talk.politics.mideast	arab:1	israel:6	gun:1	israeli:3	card:1	
+talk.politics.mideast	israeli:1	
+talk.politics.mideast	armenia:3	turkish:2	
+talk.politics.mideast	arab:1	israel:6	gun:1	israeli:3	card:1	
+talk.politics.mideast	armenian:2	turks:1	turkish:5	
+talk.politics.mideast	israeli:2	
+talk.politics.mideast	turks:1	
+talk.politics.mideast	arab:2	israel:9	arabs:1	israeli:3	
+talk.politics.mideast	launch:1	israeli:1	
+talk.politics.mideast	car:2	arab:7	team:1	israel:1	arabs:3	medical:1	israeli:6	
+talk.politics.mideast	arab:2	israel:3	arabs:1	israeli:8	
+talk.politics.mideast	armenian:1	armenia:1	turks:1	turkish:1	
+talk.politics.mideast	armenian:2	armenia:1	turks:1	turkish:1	
+talk.politics.mideast	armenian:9	armenia:3	turks:1	turkish:8	guns:1	
+talk.politics.mideast	armenian:4	armenia:7	turks:1	turkish:10	
+talk.politics.mideast	armenian:25	armenia:5	turks:8	turkish:15	
+talk.politics.mideast	israel:1	israeli:1	
+talk.politics.mideast	israeli:1	
+talk.politics.mideast	arab:5	israel:8	arabs:6	israeli:3	
+talk.politics.mideast	armenian:1	armenia:4	turks:3	turkish:4	
+talk.politics.mideast	armenian:4	armenia:2	turks:1	turkish:4	
+talk.politics.mideast	armenian:6	armenia:2	turks:1	disease:1	turkish:1	
+talk.politics.mideast	christian:1	armenian:26	arab:1	armenia:2	turks:1	turkish:3	israeli:1	gif:2	key:1	
+talk.politics.mideast	christian:1	armenian:2	armenia:1	turks:1	gun:1	turkish:3	isa:2	
+talk.politics.mideast	offer:1	
+talk.politics.mideast	armenia:4	turks:1	turkish:5	
+talk.politics.mideast	israel:1	
+talk.politics.mideast	arab:2	israel:5	arabs:4	israeli:4	
+talk.politics.mideast	israel:1	israeli:1	
+talk.politics.mideast	israel:2	
+talk.politics.mideast	israel:1	
+talk.politics.mideast	armenia:1	turks:4	turkish:2	
+talk.politics.mideast	armenian:4	armenia:8	turks:1	turkish:3	guns:1	
+talk.politics.mideast	armenia:1	turks:2	israel:1	turkish:9	
+talk.politics.mideast	israel:1	
+talk.religion.misc	gay:2	
+talk.religion.misc	god:3	
+talk.religion.misc	christian:1	god:1	game:1	doctor:1	
+talk.religion.misc	christian:1	
+talk.religion.misc	moon:2	christian:5	god:1	
+talk.religion.misc	god:1	team:1	disease:1	
+talk.religion.misc	moon:1	
+talk.religion.misc	god:4	window:1	key:1	
+talk.religion.misc	god:8	
+talk.religion.misc	god:2	microsoft:1	gay:1	morality:3	key:1	
+talk.religion.misc	team:1	microsoft:1	morality:3	
+talk.religion.misc	team:3	game:3	microsoft:1	players:1	morality:5	
+talk.religion.misc	god:3	microsoft:1	morality:8	
+talk.religion.misc	god:1	microsoft:1	morality:3	
+talk.religion.misc	morality:2	
+talk.religion.misc	gay:1	
+talk.religion.misc	god:3	
+talk.religion.misc	god:1	
+talk.religion.misc	christian:5	god:1	space:1	mormons:4	
+talk.religion.misc	christian:1	god:1	doctor:1	
+talk.religion.misc	christian:3	god:2	
+talk.religion.misc	christian:7	god:3	israel:1	morality:10	electronics:1	
+talk.religion.misc	christian:1	god:8	
+talk.religion.misc	dos:1	
+talk.religion.misc	christian:1	god:1	offer:1	doctor:1	
+talk.religion.misc	moon:3	god:1	
+talk.religion.misc	christian:5	god:1	talk.religion.misc:2	window:2	
+talk.religion.misc	christian:1	god:1	doctor:1	alt.atheism:1	
+talk.religion.misc	christian:1	space:1	
+talk.religion.misc	christian:1	god:1	
+talk.religion.misc	isa:1	
+talk.religion.misc	christian:2	god:3	offer:1	doctor:1	
+talk.religion.misc	god:1	
+talk.religion.misc	christian:4	morality:1	
+talk.religion.misc	christian:1	horus.ap.mchp.sni.de:1	morality:1	
+talk.religion.misc	christian:2	arab:1	turks:1	israeli:2	cars:1	
+talk.religion.misc	christian:2	god:1	image:1	offer:1	gay:32	
+talk.religion.misc	sandvik:3	
+talk.religion.misc	god:1	
+talk.religion.misc	christian:1	morality:2	
+talk.religion.misc	god:1	gay:4	
+talk.religion.misc	god:1	
+talk.religion.misc	car:1	sandvik:3	guns:1	israeli:2	
+talk.religion.misc	turkish:1	morality:2	
+talk.religion.misc	morality:3	electronics:1	
+talk.religion.misc	christian:1	game:1	morality:1	
+talk.religion.misc	christian:1	god:3	image:3	apple:1	morality:5	electronics:1	
+talk.religion.misc	christian:1	horus.ap.mchp.sni.de:2	morality:6	
+talk.religion.misc	god:5	
+talk.religion.misc	god:2	
+talk.religion.misc	christian:3	ms:2	keith:1	
+talk.religion.misc	christian:1	horus.ap.mchp.sni.de:1	morality:2	
+talk.religion.misc	christian:1	horus.ap.mchp.sni.de:1	keith:1	morality:1	
+talk.religion.misc	christian:1	god:1	mac:1	morality:5	
+talk.religion.misc	christian:1	horus.ap.mchp.sni.de:2	sandvik:4	morality:3	kent.apple.com:1	
+talk.religion.misc	christian:1	morality:1	
+talk.religion.misc	god:2	
+talk.religion.misc	christian:3	sandvik:3	
+talk.religion.misc	christian:1	god:1	sandvik:3	
+comp.os.ms-windows.misc	microsoft:1	
+comp.os.ms-windows.misc	windows:2	card:3	graphics:1	
+comp.os.ms-windows.misc	ms:2	
+comp.os.ms-windows.misc	3.1:4	windows:6	graphics:1	
+comp.os.ms-windows.misc	vlb:1	window:1	isa:1	card:1	graphics:1	
+comp.os.ms-windows.misc	windows:2	offer:1	shipping:1	
+comp.os.ms-windows.misc	ms:2	
+comp.os.ms-windows.misc	windows:6	dos:4	card:1	x11:2	
+comp.os.ms-windows.misc	windows:2	
+comp.os.ms-windows.misc	windows:1	microsoft:1	
+comp.os.ms-windows.misc	windows:1	microsoft:1	
+comp.os.ms-windows.misc	3.1:2	windows:2	window:1	card:1	
+comp.os.ms-windows.misc	launch:1	windows:4	key:1	
+comp.os.ms-windows.misc	3.1:1	mac:4	windows:4	microsoft:3	
+comp.os.ms-windows.misc	ms:4	offer:1	space:1	
+comp.os.ms-windows.misc	ms:1	windows:3	dos:2	card:1	x11:2	
+comp.os.ms-windows.misc	ms:1	windows:6	card:1	graphics:1	
+comp.os.ms-windows.misc	windows:1	x11:1	
+comp.os.ms-windows.misc	3.1:1	windows:4	dos:2	
+comp.os.ms-windows.misc	windows:15	space:2	card:1	
+comp.os.ms-windows.misc	windows:9	mac:7	
+comp.os.ms-windows.misc	windows:2	window:5	
+comp.os.ms-windows.misc	windows:1	
+comp.os.ms-windows.misc	3.1:1	windows:1	
+comp.os.ms-windows.misc	windows:1	microsoft:1	
+comp.os.ms-windows.misc	windows:3	
+comp.os.ms-windows.misc	windows:1	dos:1	
+comp.os.ms-windows.misc	3.1:1	windows:3	card:3	graphics:2	
+comp.os.ms-windows.misc	vlb:1	window:1	isa:1	card:2	graphics:1	
+comp.os.ms-windows.misc	windows:1	microsoft:1	
+comp.os.ms-windows.misc	bus:1	windows:3	dos:1	
+comp.os.ms-windows.misc	space:2	
+comp.os.ms-windows.misc	car:1	
+comp.os.ms-windows.misc	dos:1	
+comp.os.ms-windows.misc	windows:8	microsoft:1	ide:1	controller:1	
+comp.os.ms-windows.misc	windows:1	mac:5	dos:1	
+comp.os.ms-windows.misc	comp.os.ms:1	windows:17	space:4	bios:3	microsoft:1	dos:7	card:2	controller:2	windows.misc:1	
+comp.os.ms-windows.misc	chip:1	3.1:2	windows:5	card:5	
+comp.os.ms-windows.misc	3.1:1	microsoft:1	
+comp.os.ms-windows.misc	windows:2	
+comp.os.ms-windows.misc	card:2	
+comp.os.ms-windows.misc	windows:1	microsoft:2	
+comp.os.ms-windows.misc	windows:2	dos:2	
+comp.os.ms-windows.misc	3.1:1	windows:1	
+comp.os.ms-windows.misc	windows:1	microsoft:1	
+comp.os.ms-windows.misc	windows:2	dos:3	
+comp.os.ms-windows.misc	windows:2	microsoft:1	
+comp.os.ms-windows.misc	condition:1	window:2	key:6	
+comp.os.ms-windows.misc	3.1:1	windows:1	
+comp.os.ms-windows.misc	3.1:1	windows:1	
+comp.os.ms-windows.misc	3.1:1	windows:1	
+comp.os.ms-windows.misc	windows:1	
+comp.os.ms-windows.misc	3.1:1	medicine:1	
+comp.os.ms-windows.misc	windows:1	
+comp.os.ms-windows.misc	chip:2	card:1	
+comp.os.ms-windows.misc	windows:3	dos:2	
+comp.os.ms-windows.misc	3.1:1	windows:8	dos:1	3d:1	graphics:1	
+comp.os.ms-windows.misc	windows:8	space:8	microsoft:1	dos:1	
+comp.os.ms-windows.misc	windows:5	dos:4	microsoft:1	dod:2	
+comp.os.ms-windows.misc	3.1:1	ms:1	windows:2	
+comp.os.ms-windows.misc	3.1:1	windows:8	offer:1	space:2	microsoft:6	dos:1	
+comp.os.ms-windows.misc	bus:1	windows:1	window:1	card:1	
+comp.os.ms-windows.misc	3.1:1	image:3	windows:1	
+comp.os.ms-windows.misc	windows:1	
+comp.os.ms-windows.misc	card:2	
+comp.os.ms-windows.misc	windows:7	space:2	
+comp.os.ms-windows.misc	windows:2	card:2	
+comp.os.ms-windows.misc	3.1:1	windows:3	
+comp.os.ms-windows.misc	windows:1	
+comp.os.ms-windows.misc	3.1:1	windows:1	
+comp.os.ms-windows.misc	windows:2	microsoft:1	
+comp.os.ms-windows.misc	3.1:1	
+comp.os.ms-windows.misc	windows:7	dos:5	microsoft:1	dod:2	
+comp.os.ms-windows.misc	windows:1	offer:2	dos:2	
+comp.os.ms-windows.misc	windows:3	dos:2	dod:1	
+comp.os.ms-windows.misc	windows:4	dos:2	
+comp.os.ms-windows.misc	god:1	ms:1	windows:4	gif:1	
+comp.os.ms-windows.misc	windows:1	
+comp.os.ms-windows.misc	3.1:1	ms:1	windows:2	
+comp.os.ms-windows.misc	image:2	windows:2	motif:5	
+comp.os.ms-windows.misc	clayton:1	
+comp.os.ms-windows.misc	bus:1	3.1:1	card:1	controller:1	medicine:1	
+comp.os.ms-windows.misc	windows:1	
+comp.os.ms-windows.misc	windows:3	dos:1	
+comp.os.ms-windows.misc	3.1:1	ms:1	windows:3	dos:3	dod:1	
+comp.os.ms-windows.misc	3.1:1	ms:1	windows:1	dos:1	
+comp.os.ms-windows.misc	chip:2	3.1:2	windows:5	game:3	bios:2	ide:1	card:3	motherboard:2	
+comp.os.ms-windows.misc	offer:1	microsoft:2	dos:1	
+comp.os.ms-windows.misc	windows:4	space:3	
+comp.os.ms-windows.misc	windows:1	space:1	
+comp.os.ms-windows.misc	3.1:1	ms:1	windows:1	dos:1	
+comp.os.ms-windows.misc	chip:1	3.1:1	engine:1	vlb:2	windows:1	window:2	isa:1	card:4	
+comp.os.ms-windows.misc	chip:2	3.1:6	ms:1	windows:26	game:3	bios:1	microsoft:2	dos:12	ide:1	isa:2	circuit:1	card:16	
+comp.os.ms-windows.misc	3.1:1	windows:1	
+comp.os.ms-windows.misc	3.1:1	windows:3	dos:2	
+comp.os.ms-windows.misc	3.1:1	windows:1	
+comp.os.ms-windows.misc	god:1	ms:2	windows:10	gif:1	
+comp.os.ms-windows.misc	3.1:1	windows:1	
+rec.sport.baseball	team:1	
+rec.sport.baseball	baseball:4	
