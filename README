@@ -1,0 +1,12 @@
+在MailClassification文件夹下terms sortedTerms docVecs bayesParams testAcc为已经运行好的中间产物和最后结果。
+具体执行可以通过:
+hadoop jar bigdata.jar choose trainPath testPath
+hadoop jar bigdata.jar sort trainPath testPath
+hadoop jar bigdata.jar trainvec trainPath testPath
+hadoop jar bigdata.jar train trainPath testPath
+hadoop jar bigdata.jar testvec trainPath testPath
+hadoop jar bigdata.jar test trainPath testPath
+几个任务的序列来完成
+
+
+详细的设计和解说请参照报告.docx
